@@ -1,0 +1,153 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/apasortcite//global/global/global}
+    \entry{Jing2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b72c92471bf1c8fe5299fd4d6caf8955}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Andrew\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=addf06d061ef2eaee8ea772a57852cc2}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Naveen},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27d311d355fa8c81c7499daaf0edb0e3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiajie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02ec5ee74e0ca2cefb1a5ce853b0d7b0}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{5ed53ea93093c42c202c4fba9259814e}
+      \strng{fullhash}{9403704a86221c392c16466e6cd1b270}
+      \strng{fullhashraw}{9403704a86221c392c16466e6cd1b270}
+      \strng{bibnamehash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authorbibnamehash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authornamehash}{5ed53ea93093c42c202c4fba9259814e}
+      \strng{authorfullhash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authorfullhashraw}{9403704a86221c392c16466e6cd1b270}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3005-1959}
+      \field{journaltitle}{npj Health Systems}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{AI solutions to the radiology workforce shortage}
+      \field{volume}{2}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1038/s44401-025-00023-6
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{Jing2025}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=b72c92471bf1c8fe5299fd4d6caf8955}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Andrew\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=addf06d061ef2eaee8ea772a57852cc2}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Naveen},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27d311d355fa8c81c7499daaf0edb0e3}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Jiajie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02ec5ee74e0ca2cefb1a5ce853b0d7b0}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{5ed53ea93093c42c202c4fba9259814e}
+      \strng{fullhash}{9403704a86221c392c16466e6cd1b270}
+      \strng{fullhashraw}{9403704a86221c392c16466e6cd1b270}
+      \strng{bibnamehash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authorbibnamehash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authornamehash}{5ed53ea93093c42c202c4fba9259814e}
+      \strng{authorfullhash}{9403704a86221c392c16466e6cd1b270}
+      \strng{authorfullhashraw}{9403704a86221c392c16466e6cd1b270}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3005-1959}
+      \field{journaltitle}{npj Health Systems}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{AI solutions to the radiology workforce shortage}
+      \field{volume}{2}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1038/s44401-025-00023-6
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
