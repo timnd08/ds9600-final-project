@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{14}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -8,6 +8,18 @@
 \bibitem[nan()]{nanos}
 Nanos research survey, commissioned by the canadian association of radiologists
   (april 25th and may 1st, 2025, polled 1,013 canadians aged 25–65).
+
+\bibitem[Al-Tameemi et~al.(2017)Al-Tameemi, Al-Essawi, Shukri, and
+  Naji]{AlTameemi2017}
+Haider~Najim Al-Tameemi, Sattar Al-Essawi, Mahmud Shukri, and Farah~Kasim Naji.
+\newblock Using magnetic resonance myelography to improve interobserver
+  agreement in the evaluation of lumbar spinal canal stenosis and root
+  compression.
+\newblock \emph{Asian Spine Journal}, 11\penalty0 (2):\penalty0 198–203,
+  April 2017.
+\newblock ISSN 1976-7846.
+\newblock \doi{10.4184/asj.2017.11.2.198}.
+\newblock URL \url{http://dx.doi.org/10.4184/asj.2017.11.2.198}.
 
 \bibitem[Aravazhi et~al.(2024)Aravazhi, Ravindran, Balasubramani, Kamil,
   Gouthaman, Karki, Thiyagarajan, and Sureshkumar~Nair]{aravazhi2024}
@@ -54,6 +66,19 @@ Mikhail~C.S.S. Higgins, Minh-Thuy Nguyen, Tova Kosowsky, Lizz Unan, Mihriye
 \newblock \doi{10.1016/j.jacr.2021.04.005}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2021.04.005}.
 
+\bibitem[Holc et~al.(2023)Holc, Albani-Forneris, Kido, Beltrame, Petracchi,
+  Gruenberg, Sola, and Camino-Willhuber]{Holc2023}
+F.~Holc, A.~Albani-Forneris, G.~Kido, S.~Beltrame, M.~Petracchi, M.~Gruenberg,
+  C.~Sola, and G.~Camino-Willhuber.
+\newblock Independent inter and intra-observer agreement of the schizas’s
+  classification of degenerative lumbar stenosis: Comparison among three levels
+  of surgical training.
+\newblock \emph{Revista Española de Cirugía Ortopédica y Traumatología},
+  67\penalty0 (3):\penalty0 175–180, May 2023.
+\newblock ISSN 1888-4415.
+\newblock \doi{10.1016/j.recot.2022.10.003}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.recot.2022.10.003}.
+
 \bibitem[Jing et~al.(2025)Jing, Garg, Zhang, and Brown]{Jing2025}
 Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
 \newblock Ai solutions to the radiology workforce shortage.
@@ -71,6 +96,14 @@ Maxime Kayser, Bayar Menzat, Cornelius Emde, Bogdan Bercean, Alex Novak, Abdala
 \newblock Fool me once? contrasting textual and visual explanations in a
   clinical decision-support setting, 2024.
 \newblock URL \url{https://arxiv.org/abs/2410.12284}.
+
+\bibitem[Munakomi et~al.(2023)Munakomi, Foris, and Varacallo]{Munakomi2023}
+S.~Munakomi, L.~A. Foris, and M.~A. Varacallo.
+\newblock Spinal stenosis and neurogenic claudication.
+\newblock In: StatPearls [Internet]. Treasure Island (FL): StatPearls
+  Publishing; 2026 Jan-, 2023.
+\newblock URL \url{https://www.ncbi.nlm.nih.gov/books/NBK430872/}.
+\newblock [Updated 2023 Aug 13].
 
 \bibitem[Parikh et~al.(2023)Parikh, Moore, Mead, Bassett, and
   Rubin]{Parikh2023}

@@ -3,47 +3,49 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main-report.aux
 The style file: plainnat.bst
 Database file #1: references.bib
+Warning--entry type for "Munakomi2023" isn't style-file defined
+--line 140 of file references.bib
 Warning--to sort, need author or key in nanos
 Warning--empty year in nanos
-You've used 11 entries,
+You've used 14 entries,
             2773 wiz_defined-function locations,
-            689 strings with 8367 characters,
-and the built_in function-call counts, 6634 in all, are:
-= -- 570
-> -- 543
+            718 strings with 9488 characters,
+and the built_in function-call counts, 8474 in all, are:
+= -- 733
+> -- 687
 < -- 0
-+ -- 182
-- -- 171
-* -- 665
-:= -- 1065
-add.period$ -- 55
-call.type$ -- 11
-change.case$ -- 90
-chr.to.int$ -- 11
-cite$ -- 25
-duplicate$ -- 212
-empty$ -- 417
-format.name$ -- 181
-if$ -- 1340
++ -- 230
+- -- 216
+* -- 847
+:= -- 1361
+add.period$ -- 72
+call.type$ -- 14
+change.case$ -- 114
+chr.to.int$ -- 14
+cite$ -- 31
+duplicate$ -- 270
+empty$ -- 536
+format.name$ -- 229
+if$ -- 1715
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 8
-newline$ -- 85
-num.names$ -- 40
-pop$ -- 155
+missing$ -- 10
+newline$ -- 108
+num.names$ -- 52
+pop$ -- 195
 preamble$ -- 1
-purify$ -- 79
+purify$ -- 100
 quote$ -- 0
-skip$ -- 189
+skip$ -- 237
 stack$ -- 0
-substring$ -- 170
-swap$ -- 19
+substring$ -- 230
+swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 121
+type$ -- 154
 warning$ -- 2
-while$ -- 35
+while$ -- 46
 width$ -- 0
-write$ -- 190
-(There were 2 warnings)
+write$ -- 244
+(There were 3 warnings)

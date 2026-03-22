@@ -78,6 +78,7 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main-report.toc
 OUTPUT main-report.pdf
 INPUT /usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./main-report.bbl
 INPUT ./main-report.bbl
 INPUT main-report.bbl
