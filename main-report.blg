@@ -1,19 +1,46 @@
-[0] Config.pm:328> INFO - This is Biber 2.21
-[0] Config.pm:331> INFO - Logfile is 'main-report.blg'
-[51] biber-darwin:342> INFO - === Sun Mar 22, 2026, 14:46:18
-[64] Biber.pm:421> INFO - Reading 'main-report.bcf'
-[133] Biber.pm:1002> INFO - Found 1 citekeys in bib section 0
-[150] Biber.pm:4487> INFO - Processing section 0
-[157] Biber.pm:4678> INFO - Looking for bibtex file 'references.bib' for section 0
-[157] bibtex.pm:1713> INFO - LaTeX decoding ...
-[160] bibtex.pm:1519> INFO - Found BibTeX data source 'references.bib'
-[188] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[188] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[188] Biber.pm:4307> INFO - Sorting list 'ynt/apasortcite//global/global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[188] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[195] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[195] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[195] Biber.pm:4307> INFO - Sorting list 'ynt/global//global/global/global' of type 'entry' with template 'ynt' and locale 'en-US'
-[195] Biber.pm:4313> INFO - No sort tailoring available for locale 'en-US'
-[199] bbl.pm:676> INFO - Writing 'main-report.bbl' with encoding 'UTF-8'
-[201] bbl.pm:779> INFO - Output to main-report.bbl
+This is BibTeX, Version 0.99e (TeX Live 2026)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main-report.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            627 strings with 5716 characters,
+and the built_in function-call counts, 1667 in all, are:
+= -- 150
+> -- 117
+< -- 0
++ -- 39
+- -- 36
+* -- 166
+:= -- 278
+add.period$ -- 18
+call.type$ -- 3
+change.case$ -- 21
+chr.to.int$ -- 3
+cite$ -- 6
+duplicate$ -- 61
+empty$ -- 108
+format.name$ -- 39
+if$ -- 333
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 3
+newline$ -- 32
+num.names$ -- 12
+pop$ -- 27
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 48
+stack$ -- 0
+substring$ -- 33
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 0
+while$ -- 10
+width$ -- 0
+write$ -- 64

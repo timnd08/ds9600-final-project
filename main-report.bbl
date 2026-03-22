@@ -1,153 +1,36 @@
-% $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.3 $
-% Do not modify the above lines!
-%
-% This is an auxiliary file used by the 'biblatex' package.
-% This file may safely be deleted. It will be recreated by
-% biber as required.
-%
-\begingroup
-\makeatletter
-\@ifundefined{ver@biblatex.sty}
-  {\@latex@error
-     {Missing 'biblatex' package}
-     {The bibliography requires the 'biblatex' package.}
-      \aftergroup\endinput}
-  {}
-\endgroup
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
+\bibitem[Jing et~al.(2025)Jing, Garg, Zhang, and Brown]{Jing2025}
+Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
+\newblock Ai solutions to the radiology workforce shortage.
+\newblock \emph{npj Health Systems}, 2\penalty0 (1), May 2025.
+\newblock ISSN 3005-1959.
+\newblock \doi{10.1038/s44401-025-00023-6}.
+\newblock URL \url{http://dx.doi.org/10.1038/s44401-025-00023-6}.
 
-\refsection{0}
-  \datalist[entry]{ynt/apasortcite//global/global/global}
-    \entry{Jing2025}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b72c92471bf1c8fe5299fd4d6caf8955}{%
-           family={Jing},
-           familyi={J\bibinitperiod},
-           given={Andrew\bibnamedelima B.},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=addf06d061ef2eaee8ea772a57852cc2}{%
-           family={Garg},
-           familyi={G\bibinitperiod},
-           given={Naveen},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=27d311d355fa8c81c7499daaf0edb0e3}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Jiajie},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=02ec5ee74e0ca2cefb1a5ce853b0d7b0}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Jeffrey\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media LLC}%
-      }
-      \strng{namehash}{5ed53ea93093c42c202c4fba9259814e}
-      \strng{fullhash}{9403704a86221c392c16466e6cd1b270}
-      \strng{fullhashraw}{9403704a86221c392c16466e6cd1b270}
-      \strng{bibnamehash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authorbibnamehash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authornamehash}{5ed53ea93093c42c202c4fba9259814e}
-      \strng{authorfullhash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authorfullhashraw}{9403704a86221c392c16466e6cd1b270}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{3005-1959}
-      \field{journaltitle}{npj Health Systems}
-      \field{month}{5}
-      \field{number}{1}
-      \field{title}{AI solutions to the radiology workforce shortage}
-      \field{volume}{2}
-      \field{year}{2025}
-      \verb{doi}
-      \verb 10.1038/s44401-025-00023-6
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
-      \endverb
-    \endentry
-  \enddatalist
-  \datalist[entry]{ynt/global//global/global/global}
-    \entry{Jing2025}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b72c92471bf1c8fe5299fd4d6caf8955}{%
-           family={Jing},
-           familyi={J\bibinitperiod},
-           given={Andrew\bibnamedelima B.},
-           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=addf06d061ef2eaee8ea772a57852cc2}{%
-           family={Garg},
-           familyi={G\bibinitperiod},
-           given={Naveen},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=27d311d355fa8c81c7499daaf0edb0e3}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Jiajie},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=02ec5ee74e0ca2cefb1a5ce853b0d7b0}{%
-           family={Brown},
-           familyi={B\bibinitperiod},
-           given={Jeffrey\bibnamedelima J.},
-           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media LLC}%
-      }
-      \strng{namehash}{5ed53ea93093c42c202c4fba9259814e}
-      \strng{fullhash}{9403704a86221c392c16466e6cd1b270}
-      \strng{fullhashraw}{9403704a86221c392c16466e6cd1b270}
-      \strng{bibnamehash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authorbibnamehash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authornamehash}{5ed53ea93093c42c202c4fba9259814e}
-      \strng{authorfullhash}{9403704a86221c392c16466e6cd1b270}
-      \strng{authorfullhashraw}{9403704a86221c392c16466e6cd1b270}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{3005-1959}
-      \field{journaltitle}{npj Health Systems}
-      \field{month}{5}
-      \field{number}{1}
-      \field{title}{AI solutions to the radiology workforce shortage}
-      \field{volume}{2}
-      \field{year}{2025}
-      \verb{doi}
-      \verb 10.1038/s44401-025-00023-6
-      \endverb
-      \verb{urlraw}
-      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
-      \endverb
-      \verb{url}
-      \verb http://dx.doi.org/10.1038/s44401-025-00023-6
-      \endverb
-    \endentry
-  \enddatalist
-\endrefsection
-\endinput
+\bibitem[Parikh et~al.(2023)Parikh, Moore, Mead, Bassett, and
+  Rubin]{Parikh2023}
+Jay~R. Parikh, Arl~Van Moore, Lisa Mead, Roland Bassett, and Eric Rubin.
+\newblock Prevalence of burnout of radiologists in private practice.
+\newblock \emph{Journal of the American College of Radiology}, 20\penalty0
+  (7):\penalty0 712–718, July 2023.
+\newblock ISSN 1546-1440.
+\newblock \doi{10.1016/j.jacr.2023.01.007}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2023.01.007}.
 
+\bibitem[Rawson et~al.(2024)Rawson, Smetherman, and Rubin]{Rawson2024}
+James~V. Rawson, Dana Smetherman, and Eric Rubin.
+\newblock Short-term strategies for augmenting the national radiologist
+  workforce.
+\newblock \emph{American Journal of Roentgenology}, 222\penalty0 (6), June
+  2024.
+\newblock ISSN 1546-3141.
+\newblock \doi{10.2214/ajr.24.30920}.
+\newblock URL \url{http://dx.doi.org/10.2214/ajr.24.30920}.
+
+\end{thebibliography}
