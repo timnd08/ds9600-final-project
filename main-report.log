@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  22 MAR 2026 15:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  22 MAR 2026 16:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -162,45 +162,85 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ] (./main-report.bbl
-Underfull \hbox (badness 4505) in paragraph at lines 18--25
+Underfull \hbox (badness 2205) in paragraph at lines 46--56
+\OT1/cmr/m/it/10 nal of the Amer-i-can Col-lege of Ra-di-ol-ogy\OT1/cmr/m/n/10 
+, 18(9):1359{1364, Septem-
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 46--56
+\OT1/cmr/m/n/10 ber 2021.  ISSN 1546-1440.  doi: 10.1016/j.jacr.2021.04.005.  U
+RL
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 77--84
 []\OT1/cmr/m/n/10 Jay R. Parikh, Arl Van Moore, Lisa Mead, Roland Bas-sett, and
 
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 18--25
+Underfull \hbox (badness 1824) in paragraph at lines 77--84
 \OT1/cmr/m/n/10 Eric Ru-bin.  Preva-lence of burnout of ra-di-ol-o-gists in pri
 -vate prac-
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 18--25
+Underfull \hbox (badness 1939) in paragraph at lines 77--84
 \OT1/cmr/m/n/10 tice.  \OT1/cmr/m/it/10 Jour-nal of the Amer-i-can Col-lege of 
 Ra-di-ol-ogy\OT1/cmr/m/n/10 , 20(7):712{718,
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 18--25
+Underfull \hbox (badness 1057) in paragraph at lines 77--84
 \OT1/cmr/m/n/10 July 2023.  ISSN 1546-1440.  doi: 10.1016/j.jacr.2023.01.007.  
 URL
  []
 
-) [3
+[3
 
-] (./main-report.aux)
+]
+Underfull \hbox (badness 2277) in paragraph at lines 97--106
+[]\OT1/cmr/m/n/10 Ramprasaath R. Sel-varaju, Michael Cogswell, Ab-hishek Das, R
+a-makr-
+ []
+
+
+Underfull \hbox (badness 2103) in paragraph at lines 97--106
+\OT1/cmr/m/n/10 ishna Vedan-tam, Devi Parikh, and Dhruv Ba-tra.  Grad-cam: Vi-
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 97--106
+\OT1/cmr/m/n/10 sual ex-pla-na-tions from deep net-works via gradient-based lo-
+cal-iza-tion.
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 97--106
+\OT1/cmr/m/it/10 In-ter-na-tional Jour-nal of Com-puter Vi-sion\OT1/cmr/m/n/10 
+, 128(2):336{359, Oc-to-ber
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 97--106
+\OT1/cmr/m/n/10 2019.  ISSN 1573-1405.  doi: 10.1007/s11263-019-01228-7.  URL
+ []
+
+) [4] (./main-report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2317 strings out of 467525
- 37933 string characters out of 5418983
- 445270 words of memory out of 5000000
- 31216 multiletter control sequences out of 15000+600000
+ 2341 strings out of 467525
+ 38596 string characters out of 5418983
+ 447941 words of memory out of 5000000
+ 31240 multiletter control sequences out of 15000+600000
  632490 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,6n,67p,1582b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,6n,67p,1545b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -208,10 +248,10 @@ usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main-report.pdf (3 pages, 108921 bytes).
+Output written on main-report.pdf (4 pages, 113208 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

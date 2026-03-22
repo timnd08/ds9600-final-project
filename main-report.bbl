@@ -1,9 +1,58 @@
-\begin{thebibliography}{3}
+\begin{thebibliography}{11}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[nan()]{nanos}
+Nanos research survey, commissioned by the canadian association of radiologists
+  (april 25th and may 1st, 2025, polled 1,013 canadians aged 25–65).
+
+\bibitem[Aravazhi et~al.(2024)Aravazhi, Ravindran, Balasubramani, Kamil,
+  Gouthaman, Karki, Thiyagarajan, and Sureshkumar~Nair]{aravazhi2024}
+Prasanna~Sakthi Aravazhi, Kumaran~Ottilingam Ravindran, Kanika Balasubramani,
+  Mohammed Kamil, Kanishka Gouthaman, Lalit Karki, Sandhiya Thiyagarajan, and
+  Akshay Sureshkumar~Nair.
+\newblock Radiologists’ perceptions and readiness for integrating artificial
+  intelligence in diagnostic imaging: A survey-based study.
+\newblock \emph{Bioinformation}, 20\penalty0 (12):\penalty0 1943–1947,
+  December 2024.
+\newblock ISSN 0973-2063.
+\newblock \doi{10.6026/9732063002001943}.
+\newblock URL \url{http://dx.doi.org/10.6026/9732063002001943}.
+
+\bibitem[Cournane et~al.(2016)Cournane, Conway, Creagh, Byrne, Sheehy, and
+  Silke]{Cournane2016}
+S.~Cournane, R.~Conway, D.~Creagh, D.G. Byrne, N.~Sheehy, and B.~Silke.
+\newblock Radiology imaging delays as independent predictors of length of
+  hospital stay for emergency medical admissions.
+\newblock \emph{Clinical Radiology}, 71\penalty0 (9):\penalty0 912–918,
+  September 2016.
+\newblock ISSN 0009-9260.
+\newblock \doi{10.1016/j.crad.2016.03.023}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.crad.2016.03.023}.
+
+\bibitem[Gale et~al.(2018)Gale, Oakden-Rayner, Carneiro, Bradley, and
+  Palmer]{gale2018producingradiologistqualityreportsinterpretable}
+William Gale, Luke Oakden-Rayner, Gustavo Carneiro, Andrew~P Bradley, and
+  Lyle~J Palmer.
+\newblock Producing radiologist-quality reports for interpretable artificial
+  intelligence, 2018.
+\newblock URL \url{https://arxiv.org/abs/1806.00340}.
+
+\bibitem[Higgins et~al.(2021)Higgins, Nguyen, Kosowsky, Unan, Mete, Rowe, and
+  Marchalik]{Higgins2021}
+Mikhail~C.S.S. Higgins, Minh-Thuy Nguyen, Tova Kosowsky, Lizz Unan, Mihriye
+  Mete, Susannah Rowe, and Daniel Marchalik.
+\newblock Burnout, professional fulfillment, intention to leave, and
+  sleep-related impairment among faculty radiologists in the united states: An
+  epidemiologic study.
+\newblock \emph{Journal of the American College of Radiology}, 18\penalty0
+  (9):\penalty0 1359–1364, September 2021.
+\newblock ISSN 1546-1440.
+\newblock \doi{10.1016/j.jacr.2021.04.005}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2021.04.005}.
 
 \bibitem[Jing et~al.(2025)Jing, Garg, Zhang, and Brown]{Jing2025}
 Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
@@ -12,6 +61,16 @@ Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
 \newblock ISSN 3005-1959.
 \newblock \doi{10.1038/s44401-025-00023-6}.
 \newblock URL \url{http://dx.doi.org/10.1038/s44401-025-00023-6}.
+
+\bibitem[Kayser et~al.(2024)Kayser, Menzat, Emde, Bercean, Novak, Espinosa,
+  Papiez, Gaube, Lukasiewicz, and
+  Camburu]{kayser2024fooloncecontrastingtextual}
+Maxime Kayser, Bayar Menzat, Cornelius Emde, Bogdan Bercean, Alex Novak, Abdala
+  Espinosa, Bartlomiej~W. Papiez, Susanne Gaube, Thomas Lukasiewicz, and
+  Oana-Maria Camburu.
+\newblock Fool me once? contrasting textual and visual explanations in a
+  clinical decision-support setting, 2024.
+\newblock URL \url{https://arxiv.org/abs/2410.12284}.
 
 \bibitem[Parikh et~al.(2023)Parikh, Moore, Mead, Bassett, and
   Rubin]{Parikh2023}
@@ -32,5 +91,26 @@ James~V. Rawson, Dana Smetherman, and Eric Rubin.
 \newblock ISSN 1546-3141.
 \newblock \doi{10.2214/ajr.24.30920}.
 \newblock URL \url{http://dx.doi.org/10.2214/ajr.24.30920}.
+
+\bibitem[Selvaraju et~al.(2019)Selvaraju, Cogswell, Das, Vedantam, Parikh, and
+  Batra]{Selvaraju_2019}
+Ramprasaath~R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam,
+  Devi Parikh, and Dhruv Batra.
+\newblock Grad-cam: Visual explanations from deep networks via gradient-based
+  localization.
+\newblock \emph{International Journal of Computer Vision}, 128\penalty0
+  (2):\penalty0 336–359, October 2019.
+\newblock ISSN 1573-1405.
+\newblock \doi{10.1007/s11263-019-01228-7}.
+\newblock URL \url{http://dx.doi.org/10.1007/s11263-019-01228-7}.
+
+\bibitem[Silveira et~al.(2025)Silveira, S., and Kundapur]{Silveira2025}
+Jaysel~Theresa Silveira, Girisha S., and Poornima~Panduranga Kundapur.
+\newblock Automated lumbar spine segmentation in mri using an enhanced u-net
+  with inception module and dual-output mechanism.
+\newblock \emph{Scientific Reports}, 15\penalty0 (1), November 2025.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/s41598-025-20721-3}.
+\newblock URL \url{http://dx.doi.org/10.1038/s41598-025-20721-3}.
 
 \end{thebibliography}

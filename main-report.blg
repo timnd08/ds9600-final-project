@@ -3,44 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main-report.aux
 The style file: plainnat.bst
 Database file #1: references.bib
-You've used 3 entries,
+Warning--to sort, need author or key in nanos
+Warning--empty year in nanos
+You've used 11 entries,
             2773 wiz_defined-function locations,
-            627 strings with 5716 characters,
-and the built_in function-call counts, 1667 in all, are:
-= -- 150
-> -- 117
+            689 strings with 8367 characters,
+and the built_in function-call counts, 6634 in all, are:
+= -- 570
+> -- 543
 < -- 0
-+ -- 39
-- -- 36
-* -- 166
-:= -- 278
-add.period$ -- 18
-call.type$ -- 3
-change.case$ -- 21
-chr.to.int$ -- 3
-cite$ -- 6
-duplicate$ -- 61
-empty$ -- 108
-format.name$ -- 39
-if$ -- 333
++ -- 182
+- -- 171
+* -- 665
+:= -- 1065
+add.period$ -- 55
+call.type$ -- 11
+change.case$ -- 90
+chr.to.int$ -- 11
+cite$ -- 25
+duplicate$ -- 212
+empty$ -- 417
+format.name$ -- 181
+if$ -- 1340
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 3
-newline$ -- 32
-num.names$ -- 12
-pop$ -- 27
+missing$ -- 8
+newline$ -- 85
+num.names$ -- 40
+pop$ -- 155
 preamble$ -- 1
-purify$ -- 18
+purify$ -- 79
 quote$ -- 0
-skip$ -- 48
+skip$ -- 189
 stack$ -- 0
-substring$ -- 33
-swap$ -- 6
+substring$ -- 170
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 33
-warning$ -- 0
-while$ -- 10
+type$ -- 121
+warning$ -- 2
+while$ -- 35
 width$ -- 0
-write$ -- 64
+write$ -- 190
+(There were 2 warnings)
