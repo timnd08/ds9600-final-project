@@ -13,3 +13,6 @@
 \contentsline {paragraph}{Risk Mitigation}{7}{}%
 \contentsline {section}{\numberline {4}Responsible AI: Bias, Ethics, and Equity}{7}{}%
 \contentsline {subsection}{\numberline {4.1}Data Bias and Population Representation}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Automation Bias and the “Right to Explanation”}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Data Privacy and Governance in Multimodal Systems}{8}{}%
+\contentsline {subsection}{\numberline {4.4}Equity: Accessibility and Linguistic Inclusivity}{8}{}%

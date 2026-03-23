@@ -4,45 +4,45 @@ The top-level auxiliary file: main-report.aux
 The style file: plainnat.bst
 Database file #1: references.bib
 Warning--I didn't find a database entry for "Selvaraju_2019"
-You've used 33 entries,
+You've used 36 entries,
             2773 wiz_defined-function locations,
-            867 strings with 18384 characters,
-and the built_in function-call counts, 25671 in all, are:
-= -- 2032
-> -- 2771
+            893 strings with 19840 characters,
+and the built_in function-call counts, 28553 in all, are:
+= -- 2259
+> -- 3104
 < -- 9
-+ -- 928
-- -- 894
-* -- 2618
-:= -- 4295
-add.period$ -- 163
-call.type$ -- 33
-change.case$ -- 397
-chr.to.int$ -- 32
-cite$ -- 66
-duplicate$ -- 615
-empty$ -- 1188
-format.name$ -- 935
-if$ -- 5040
++ -- 1039
+- -- 1002
+* -- 2930
+:= -- 4785
+add.period$ -- 181
+call.type$ -- 36
+change.case$ -- 442
+chr.to.int$ -- 35
+cite$ -- 72
+duplicate$ -- 677
+empty$ -- 1301
+format.name$ -- 1046
+if$ -- 5599
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 21
-newline$ -- 237
-num.names$ -- 132
-pop$ -- 730
+missing$ -- 24
+newline$ -- 261
+num.names$ -- 144
+pop$ -- 805
 preamble$ -- 1
-purify$ -- 364
+purify$ -- 406
 quote$ -- 0
-skip$ -- 698
+skip$ -- 768
 stack$ -- 0
-substring$ -- 387
-swap$ -- 56
+substring$ -- 435
+swap$ -- 62
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 363
+type$ -- 396
 warning$ -- 0
-while$ -- 111
+while$ -- 122
 width$ -- 0
-write$ -- 552
+write$ -- 609
 (There was 1 warning)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{33}
+\begin{thebibliography}{36}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -29,6 +29,24 @@ Prasanna~Sakthi Aravazhi, Kumaran~Ottilingam Ravindran, Kanika Balasubramani,
 \newblock ISSN 0973-2063.
 \newblock \doi{10.6026/9732063002001943}.
 \newblock URL \url{http://dx.doi.org/10.6026/9732063002001943}.
+
+\bibitem[Bergomi et~al.(2025)Bergomi, Nicora, Orlowska, Podrecca, Bellazzi,
+  Fregosi, Salinaro, Bonzano, Crescenzi, Speciale, Di~Pietro, Zuccaro,
+  Asperges, Sacchi, Valsecchi, Pagani, Catalano, Bortolotto, Preda, and
+  Parimbelli]{Bergomi2025}
+Laura Bergomi, Giovanna Nicora, Marta~Anna Orlowska, Chiara Podrecca, Riccardo
+  Bellazzi, Caterina Fregosi, Francesco Salinaro, Marco Bonzano, Giuseppe
+  Crescenzi, Francesco Speciale, Santi Di~Pietro, Valentina Zuccaro, Erika
+  Asperges, Paolo Sacchi, Pietro Valsecchi, Elisabetta Pagani, Michele
+  Catalano, Chandra Bortolotto, Lorenzo Preda, and Enea Parimbelli.
+\newblock Which explanations do clinicians prefer? a comparative evaluation of
+  xai understandability and actionability in predicting the need for
+  hospitalization.
+\newblock \emph{BMC Medical Informatics and Decision Making}, 25\penalty0 (1),
+  July 2025.
+\newblock ISSN 1472-6947.
+\newblock \doi{10.1186/s12911-025-03045-0}.
+\newblock URL \url{http://dx.doi.org/10.1186/s12911-025-03045-0}.
 
 \bibitem[Cournane et~al.(2016)Cournane, Conway, Creagh, Byrne, Sheehy, and
   Silke]{Cournane2016}
@@ -317,6 +335,19 @@ Davy van~de Sande, Jasper van Bommel, Eline Fung Fen~Chung, Diederik Gommers,
 \newblock \doi{10.1186/s13054-022-04197-5}.
 \newblock URL \url{http://dx.doi.org/10.1186/s13054-022-04197-5}.
 
+\bibitem[Vergara et~al.(2025)Vergara, Oliveira, Mattiello, Montelongo, Roman,
+  Katz, Wives, and Rados]{Vergara2025}
+Piter~Oliveira Vergara, Jeronimo de~Conto Oliveira, Rita Mattiello, Alfredo
+  Montelongo, Rudi Roman, Natan Katz, Leandro~Krug Wives, and Dimitris~Varvaki
+  Rados.
+\newblock Accuracy of artificial intelligence for gatekeeping in referrals to
+  specialized care.
+\newblock \emph{JAMA Network Open}, 8\penalty0 (6):\penalty0 e2513285, June
+  2025.
+\newblock ISSN 2574-3805.
+\newblock \doi{10.1001/jamanetworkopen.2025.13285}.
+\newblock URL \url{http://dx.doi.org/10.1001/jamanetworkopen.2025.13285}.
+
 \bibitem[Wang and Lin(2019)]{wang2019hybridpredictivemodelinterpretable}
 Tong Wang and Qihang Lin.
 \newblock Hybrid predictive model: When an interpretable model collaborates
@@ -372,5 +403,17 @@ Zhichao Yang, Zonghai Yao, Mahbuba Tasmin, Parth Vashisht, Won~Seok Jang,
 \newblock ISSN 1438-8871.
 \newblock \doi{10.2196/65146}.
 \newblock URL \url{http://dx.doi.org/10.2196/65146}.
+
+\bibitem[Zhong et~al.(2025)Zhong, Li, Chen, Ge, Yu, Wang, You, and
+  Shang]{Zhong2025}
+Xiaoying Zhong, Siyi Li, Zhao Chen, Long Ge, Dongdong Yu, Shijia Wang,
+  Liangzhen You, and Hongcai Shang.
+\newblock Considerations for patient privacy of large language models in health
+  care: Scoping review.
+\newblock \emph{Journal of Medical Internet Research}, 27:\penalty0 e76571,
+  November 2025.
+\newblock ISSN 1438-8871.
+\newblock \doi{10.2196/76571}.
+\newblock URL \url{http://dx.doi.org/10.2196/76571}.
 
 \end{thebibliography}

@@ -67,6 +67,21 @@ A composite reliability score will be defined by combining classification certai
 AI models for musculoskeletal imaging are only as equitable as the data on which they are trained. A significant risk in LSS classification is representation bias. Clinical studies indicate that spinal morphology and the prevalence of degenerative changes vary significantly across different ethnic groups and body mass indices (BMI) \citep{Williams2015, Wng2023, Kalichman2009}. For instance, high-BMI patients often have lower-quality MRI scans due to signal-to-noise ratio limitations, which can lead to higher AI error rates for this subgroup. 
 For the mitigation, we will implement disaggregated performance auditing, evaluating the model’s accuracy, calibration, and F1-score across different demographic strata (age, sex, and BMI) to ensure no specific group suffers from diagnostic disparity \citep{vandeSande2022, Lu2022} .
 
+\subsection{Automation Bias and the “Right to Explanation”}
+As discussed in Section 2, a primary ethical concern in clinical AI is automation bias, the tendency for over-reliance on automated suggestions \citep{Bergomi2025} . Purely visual explanations (heatmaps) can exacerbate this by allowing clinicians to subconsciously “rationalize” a model’s incorrect prediction. 
+By introducing an LLM-driven textual reasoning layer, this design forces a “logic check”: if the LLM’s textual description (e.g., “narrowing at L4-L5”) contradicts the clinician’s observation of the raw MRI, the friction created by this discrepancy serves as a critical safeguard against erroneous AI-led decisions \citep{gale2018producingradiologistqualityreportsinterpretable, kayser2024fooloncecontrastingtextual}.
+
+\subsection{Data Privacy and Governance in Multimodal Systems}
+The use of MRI scans and the synthesis of clinical reports by LLMs raise significant privacy concerns. MRI DICOM files contain sensitive metadata, and LLMs, if not properly governed, can inadvertently “memorize” and leak Protected Health Information (PHI). 
+To deal with it, our system will employ de-identification pipelines before data processing. Furthermore, we will utilize frozen, locally-hosted LLMs (or HIPAA-compliant API instances) to ensure that patient-specific anatomical features extracted in Stage 4 do not enter the public training pool of commercial AI providers \citep{Zhong2025}.
+
+\subsection{Equity: Accessibility and Linguistic Inclusivity}
+While advanced AI tools are often limited to high-resource urban hospitals, our system’s focus on textual explanation can actually promote health equity. By providing a clear, evidence-based reasoning summary, the tool can support non-specialist clinicians (e.g., family doctors in rural Ontario) in making more accurate triage decisions, thereby reducing unnecessary referrals to overburdened specialists \citep{Vergara2025}. 
+For future equity goals, we acknowledge the risk of linguistic bias in LLMs, which primarily perform best in English. To ensure equity for Canada’s diverse population, future iterations must validate the LLM’s explanatory performance in French and other widely spoken languages to prevent “interpretability gaps” for non-English speaking practitioners.
+
+
+
+
 \clearpage
 
 \bibliography{references.bib}
