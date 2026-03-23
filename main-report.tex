@@ -1,26 +1,25 @@
-\documentclass{article}
+\documentclass[12pt]{article}
 \usepackage{graphicx} % Required for inserting images
 \usepackage{gensymb}
 \usepackage[round, authoryear]{natbib} 
+\usepackage[a4paper, margin=2cm]{geometry}
+\usepackage{setspace}
+
+\singlespacing
 \bibliographystyle{plainnat} 
 
 
-\title{DS9600 Final Project \\ \textbf {Beyond the Black Box: A Multimodal XAI Framework for Lumbar Spinal Stenosis Grading via Integrated MRI Analysis and LLM-Driven Clinical Reasoning}}
+\title{Winter 2026: DS9600 Final Project \\ \textbf {Beyond the Black Box: A Multimodal XAI Framework for Lumbar Spinal Stenosis Grading via Integrated MRI Analysis and LLM-Driven Clinical Reasoning}}
 \author{Ahmed Mohamed, (Helen) Yixiu He, Yan Yi Li, Tim Nguyen}
-\date{March 2026}
 
 \begin{document}
 \maketitle
 
 
-\tableofcontents
-
-\clearpage
-
 \section{Problem Statement}
 \label{problem_statement}
 In the field of medical imaging, medical practitioners deal with a rising diagnostic workload.  To mitigate this issue, many choose to extend work hours and increase productivity expectations \citep{Jing2025}. However, this promotes job dissatisfaction and burnout. In private practice, the burnout rate is 46\% for radiologists. This result strongly correlates with practitioners who took evenings, overnight and weekends calls \citep{Parikh2023}. Not just in private sector, but burn out also happens in acadmedia, where burnout overall prevalence rate is 37.4\% \citep{Higgins2021}. Even though practices provide solution to mitigate this issue such as flexible scheduling, part-time and remote work options, teleradiology services \citep{Rawson2024}, these only address the surface problems instead of targeting the root cause, which is the shortage of radiologists  \citep{Jing2025}. With the increasing number of patients but shortage of professionals to diagnose the images, it causes huge delay and decrease in quality in health care providing. Due to an increasing of already heavy work flow, combining with ineffective operation and shortage of radiologists, this leads to excessive workload, with visual and mental fatigue. These can lead to imaging delays, causing delays of diagnosis and treatment \citep{Cournane2016}. In 2025, a survey reports that 11.4\% of patient had to stop working while waiting for a result of a scan. The wait time can vary between one up to three months \citep{nanos}. 
-For that issue, we are interested in building a pipeline to address Lumbar Spinal Stenosis (LSS), but the general idea is applicable for any medical imaging. In order to address this problem, researchers developed a pipeline to utilize the power of computer vision to aid medical practitioners in diagnosing imaging. In particular, there exists a pipeline to use U-Net architecture to perform ROI segmentation \citep{Silveira2025}, ConvNet in image classification and Grad-CAM to generate feature importance heatmap \citep{Selvaraju_2019}. However, in a clinical survey, 56\% radiologists mentioned a lack of transparency since this pipeline utilizes black box models \citep{aravazhi2024}, there is lack of motivation behind predictions. Furthermore, they state that they prefer textual explanation \citep{gale2018producingradiologistqualityreportsinterpretable, kayser2024fooloncecontrastingtextual} , which our model comes to play. Here, we propose the use of multimodal large language model to attempt to explain the motivation behind prediction using ROI and heatmap. 
+For that issue, we are interested in building a pipeline to address Lumbar Spinal Stenosis (LSS), but the general idea is applicable for any medical imaging. In order to address this problem, researchers developed a pipeline to utilize the power of computer vision to aid medical practitioners in diagnosing imaging. In particular, there exists a pipeline to use U-Net architecture to perform ROI segmentation \citep{Silveira2025}, ConvNet in image classification and Grad-CAM to generate feature importance heatmap \citep{Selvaraju2019}. However, in a clinical survey, 56\% radiologists mentioned a lack of transparency since this pipeline utilizes black box models \citep{aravazhi2024}, there is lack of motivation behind predictions. Furthermore, they state that they prefer textual explanation \citep{gale2018producingradiologistqualityreportsinterpretable, kayser2024fooloncecontrastingtextual} , which our model comes to play. Here, we propose the use of multimodal large language model to attempt to explain the motivation behind prediction using ROI and heatmap. 
 
 \section{Rationale and Background}
 \subsection{Clinical Burden and Diagnostic Variability}
@@ -89,20 +88,39 @@ Hospital IT Departments are essential for deployment and maintenance, ensuring s
 
 \subsection{Implementation}
 The system will be deployed as a supporting tool, not a replacement for clinical judgment. It provides initial results and a reasoning-based draft report that highlights the anatomical basis for the AI’s prediction, such as reductions in thecal sac or nerve root areas at specific vertebral levels. Radiologists can quickly validate the AI’s assessment by focusing on relevant regions, rather than performing a full conventional review, and edit the report as needed. By acting as an editable draft, similar to reviewing a trainee’s report, the system saves time in both validating AI decisions and generating final reports, while maintaining full human oversight and compliance with regulatory guidelines.
-
-\subsection{Engagement and Contextual Factors}
-
 Radiologists and IT staff will be involved during co-design, and evaluation phases to ensure usability and integration with existing workflows. 
 
-\subsection{Feasibility}
-Integration with existing PACS/DICOM systems, compatibility with hospital IT systems and security protocols.
+Feasibility: Integration with existing PACS/DICOM systems, compatibility with hospital IT systems and security protocols.
 
-\subsection{Acceptability and Uptake} 
-Clinical adoption will depend on demonstrable time savings, consistency of severity grading, interpretability of AI outputs, and alignment with regulatory guidelines (e.g., Health Canada’s Software as a Medical Device framework).
+Acceptability and Uptake: Clinical adoption will depend on demonstrable time savings, consistency of severity grading, interpretability of AI outputs, and alignment with regulatory guidelines (e.g., Health Canada’s Software as a Medical Device framework).
 
 
+\section{Innovation \& Contribution}
+The proposed framework introduces a novel method for the automated detection and classification of LSS severity through two primary innovations: (1) A Modular Vision-to-Text Diagnostic Pipeline: We propose a staged architecture that mimics clinical diagnostic logic: a 2D U-Net first performs precise anatomical segmentation to extract quantitative morphometrics and isolate Region of Interest (ROI), which is then passed to a specialized classifier for severity grading. This is integrated with a Zero-Shot NLP engine that organizes these measurements and visual attention features (Grad-CAM) into a structured reasoning report. By informing the physician of the exact evidence used to reach a decision, this framework transforms the AI from a "black box" into a transparent assistant, drastically reducing the time required for clinical validation. (2) Automated Reliability Auditing via Spatial Attention Overlap. To ensure the model focuses on relevant pathology, we introduce a "Reliability Score" that provides a quantitative check of the model's logic. This score mathematically measures the spatial overlap between the model’s visual attention (Grad-CAM) and the anatomical segmentation masks it generated. By verifying that the model's focus is physically tethered to the relevant anatomy, rather than image noise or artifacts, we establish a verifiable standard for trust and interpretability in spinal imaging AI.
 
 
+
+\clearpage
+\appendix
+\section{Appendix}
+\subsection{Appendix 1: Prompt Template Design}
+\paragraph{Layer 1: System instruction}
+\textit{You are an AI assistant generating clinical explanations for lumbar spinal stenosis (LSS).Please use only the provided structured inputs and Ensure all statements are supported by quantitative evidence. Do not infer or assume information not explicitly given and do not provide diagnosis beyond the predicted class.}
+\paragraph{Layer 2: Structured data input}
+\textit{Here is the structured inputs:
+Predicted severity: Moderate
+Confidence: 0.87
+Anatomical measurements:
+- Thecal sac area: 62 mm²
+Attention overlap (Dice):
+- Thecal sac: 0.71
+- Intervertebral disc: 0.32
+- Posterior elements: 0.28
+ROI activation: 89\%}
+\paragraph{Layer 3: Reasoning instructions}
+\textit{Please provide severity explanation by prioritizing thecal sac measurements, using attention overlap to support whether the model focused on relevant anatomy. If ROI activation < 50\%, mention potential attention dispersion. If confidence < 0.6, include uncertainty language.}
+\paragraph{Layer 4: Output format}
+\textit{Please generate the output by including predicted severity and confidence as severity assessment, key measurements and their implication as anatomical evidence, alignment between attention and anatomy as model attention, summary, and AI-generated disclaimer.}
 
 \clearpage
 

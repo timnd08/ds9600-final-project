@@ -1,24 +1,31 @@
-\contentsline {section}{\numberline {1}Problem Statement}{2}{}%
-\contentsline {section}{\numberline {2}Rationale and Background}{2}{}%
-\contentsline {subsection}{\numberline {2.1}Clinical Burden and Diagnostic Variability}{2}{}%
-\contentsline {subsection}{\numberline {2.2}The Rise and Limitations of Deep Learning in Biology}{3}{}%
-\contentsline {subsection}{\numberline {2.3}The Unfeasiability of Interpretable AI}{3}{}%
-\contentsline {subsection}{\numberline {2.4}Explainable AI \& its “Semantic Gap”}{3}{}%
-\contentsline {subsection}{\numberline {2.5}Identifying the Gap: The Need for Vision-Language Fusion}{4}{}%
-\contentsline {section}{\numberline {3}Proposed ML/AI System or Solution}{4}{}%
-\contentsline {paragraph}{Datasets}{5}{}%
-\contentsline {paragraph}{Phase 1: Quantitative ML Prediction Framework}{5}{}%
-\contentsline {paragraph}{Phase 2: LLM-Based Structured Explanation Framework}{6}{}%
-\contentsline {paragraph}{Phase 3: Clinician Evaluation and Workflow Assessment}{6}{}%
-\contentsline {paragraph}{Risk Mitigation}{7}{}%
-\contentsline {section}{\numberline {4}Responsible AI: Bias, Ethics, and Equity}{7}{}%
-\contentsline {subsection}{\numberline {4.1}Data Bias and Population Representation}{7}{}%
-\contentsline {subsection}{\numberline {4.2}Automation Bias and the “Right to Explanation”}{7}{}%
-\contentsline {subsection}{\numberline {4.3}Data Privacy and Governance in Multimodal Systems}{8}{}%
-\contentsline {subsection}{\numberline {4.4}Equity: Accessibility and Linguistic Inclusivity}{8}{}%
-\contentsline {section}{\numberline {5}Stakeholders and Implementation Context}{8}{}%
-\contentsline {subsection}{\numberline {5.1}Stakeholders}{8}{}%
-\contentsline {subsection}{\numberline {5.2}Implementation}{9}{}%
-\contentsline {subsection}{\numberline {5.3}Engagement and Contextual Factors}{9}{}%
-\contentsline {subsection}{\numberline {5.4}Feasibility}{9}{}%
-\contentsline {subsection}{\numberline {5.5}Acceptability and Uptake}{9}{}%
+\contentsline {section}{\numberline {1}Problem Statement}{3}{}%
+\contentsline {section}{\numberline {2}Rationale and Background}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Clinical Burden and Diagnostic Variability}{3}{}%
+\contentsline {subsection}{\numberline {2.2}The Rise and Limitations of Deep Learning in Biology}{4}{}%
+\contentsline {subsection}{\numberline {2.3}The Unfeasiability of Interpretable AI}{4}{}%
+\contentsline {subsection}{\numberline {2.4}Explainable AI \& its “Semantic Gap”}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Identifying the Gap: The Need for Vision-Language Fusion}{5}{}%
+\contentsline {section}{\numberline {3}Proposed ML/AI System or Solution}{5}{}%
+\contentsline {paragraph}{Datasets}{6}{}%
+\contentsline {paragraph}{Phase 1: Quantitative ML Prediction Framework}{6}{}%
+\contentsline {paragraph}{Phase 2: LLM-Based Structured Explanation Framework}{7}{}%
+\contentsline {paragraph}{Phase 3: Clinician Evaluation and Workflow Assessment}{7}{}%
+\contentsline {paragraph}{Risk Mitigation}{8}{}%
+\contentsline {section}{\numberline {4}Responsible AI: Bias, Ethics, and Equity}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Data Bias and Population Representation}{8}{}%
+\contentsline {subsection}{\numberline {4.2}Automation Bias and the “Right to Explanation”}{8}{}%
+\contentsline {subsection}{\numberline {4.3}Data Privacy and Governance in Multimodal Systems}{9}{}%
+\contentsline {subsection}{\numberline {4.4}Equity: Accessibility and Linguistic Inclusivity}{9}{}%
+\contentsline {section}{\numberline {5}Stakeholders and Implementation Context}{9}{}%
+\contentsline {subsection}{\numberline {5.1}Stakeholders}{9}{}%
+\contentsline {subsection}{\numberline {5.2}Implementation}{10}{}%
+\contentsline {subsection}{\numberline {5.3}Engagement and Contextual Factors}{10}{}%
+\contentsline {subsection}{\numberline {5.4}Feasibility}{10}{}%
+\contentsline {subsection}{\numberline {5.5}Acceptability and Uptake}{10}{}%
+\contentsline {section}{\numberline {6}Innovation \& Contribution}{10}{}%
+\contentsline {section}{\numberline {A}Appendix}{12}{}%
+\contentsline {subsection}{\numberline {A.1}Appendix 1: Prompt Template Design}{12}{}%
+\contentsline {paragraph}{Layer 1: System instruction}{12}{}%
+\contentsline {paragraph}{Layer 2: Structured data input}{12}{}%
+\contentsline {paragraph}{Layer 3: Reasoning instructions}{12}{}%
+\contentsline {paragraph}{Layer 4: Output format}{12}{}%
