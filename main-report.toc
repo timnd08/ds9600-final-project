@@ -6,6 +6,10 @@
 \contentsline {subsection}{\numberline {2.4}Explainable AI \& its “Semantic Gap”}{3}{}%
 \contentsline {subsection}{\numberline {2.5}Identifying the Gap: The Need for Vision-Language Fusion}{4}{}%
 \contentsline {section}{\numberline {3}Proposed ML/AI System or Solution}{4}{}%
-\contentsline {subsection}{\numberline {3.1}Datasets}{5}{}%
+\contentsline {paragraph}{Datasets}{5}{}%
 \contentsline {paragraph}{Phase 1: Quantitative ML Prediction Framework}{5}{}%
 \contentsline {paragraph}{Phase 2: LLM-Based Structured Explanation Framework}{6}{}%
+\contentsline {paragraph}{Phase 3: Clinician Evaluation and Workflow Assessment}{6}{}%
+\contentsline {paragraph}{Risk Mitigation}{7}{}%
+\contentsline {section}{\numberline {4}Responsible AI: Bias, Ethics, and Equity}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Data Bias and Population Representation}{7}{}%

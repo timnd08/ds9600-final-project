@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{33}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -93,6 +93,17 @@ Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
 \newblock \doi{10.1038/s44401-025-00023-6}.
 \newblock URL \url{http://dx.doi.org/10.1038/s44401-025-00023-6}.
 
+\bibitem[Kalichman et~al.(2009)Kalichman, Guermazi, Li, and
+  Hunter]{Kalichman2009}
+Leonid Kalichman, Ali Guermazi, Ling Li, and David~J. Hunter.
+\newblock Association between age, sex, bmi and ct-evaluated spinal
+  degeneration features.
+\newblock \emph{Journal of Back and Musculoskeletal Rehabilitation},
+  22\penalty0 (4):\penalty0 189–195, December 2009.
+\newblock ISSN 1053-8127.
+\newblock \doi{10.3233/bmr-2009-0232}.
+\newblock URL \url{http://dx.doi.org/10.3233/BMR-2009-0232}.
+
 \bibitem[Kayser et~al.(2024)Kayser, Menzat, Emde, Bercean, Novak, Espinosa,
   Papiez, Gaube, Lukasiewicz, and
   Camburu]{kayser2024fooloncecontrastingtextual}
@@ -113,6 +124,23 @@ Yonghong Liu, Javed Rashid, Salah~Mahmoud Boulaaras, Muhammad~Shoaib Saleem,
 \newblock ISSN 1875-6883.
 \newblock \doi{10.1007/s44196-025-01098-7}.
 \newblock URL \url{http://dx.doi.org/10.1007/s44196-025-01098-7}.
+
+\bibitem[Lu et~al.(2022)Lu, Sattler, Wang, Khaki, Callahan, Fleming, Fong,
+  Ehlert, Li, Shieh, Ramchandran, Gensheimer, Chobot, Pfohl, Li, Shum, Parikh,
+  Desai, Seevaratnam, Hanson, Smith, Xu, Gokhale, Lin, Pfeffer, Teuteberg, and
+  Shah]{Lu2022}
+Jonathan Lu, Amelia Sattler, Samantha Wang, Ali~Raza Khaki, Alison Callahan,
+  Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron~C. Li, Lisa Shieh, Kavitha
+  Ramchandran, Michael~F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li,
+  Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson,
+  Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael~A. Pfeffer,
+  Winifred Teuteberg, and Nigam~H. Shah.
+\newblock Considerations in the reliability and fairness audits of predictive
+  models for advance care planning.
+\newblock \emph{Frontiers in Digital Health}, 4, September 2022.
+\newblock ISSN 2673-253X.
+\newblock \doi{10.3389/fdgth.2022.943768}.
+\newblock URL \url{http://dx.doi.org/10.3389/fdgth.2022.943768}.
 
 \bibitem[Muhammad and Bendechache(2024)]{Muhammad2024}
 Dost Muhammad and Malika Bendechache.
@@ -278,11 +306,60 @@ Mingxing Tan and Quoc~V. Le.
   networks, 2020.
 \newblock URL \url{https://arxiv.org/abs/1905.11946}.
 
+\bibitem[van~de Sande et~al.(2022)van~de Sande, van Bommel, Fung Fen~Chung,
+  Gommers, and van Genderen]{vandeSande2022}
+Davy van~de Sande, Jasper van Bommel, Eline Fung Fen~Chung, Diederik Gommers,
+  and Michel~E. van Genderen.
+\newblock Algorithmic fairness audits in intensive care medicine: artificial
+  intelligence for all?
+\newblock \emph{Critical Care}, 26\penalty0 (1), October 2022.
+\newblock ISSN 1364-8535.
+\newblock \doi{10.1186/s13054-022-04197-5}.
+\newblock URL \url{http://dx.doi.org/10.1186/s13054-022-04197-5}.
+
 \bibitem[Wang and Lin(2019)]{wang2019hybridpredictivemodelinterpretable}
 Tong Wang and Qihang Lin.
 \newblock Hybrid predictive model: When an interpretable model collaborates
   with a black-box model, 2019.
 \newblock URL \url{https://arxiv.org/abs/1905.04241}.
+
+\bibitem[Williams et~al.(2015)Williams, Cheung, Goss, Rajasekaran, Kawaguchi,
+  Acharya, Kawakami, Satoh, Chen, Park, Lee, Foocharoen, Nagashima, Kuh, Zheng,
+  Condor, Ito, Iwasaki, Jeong, Luk, Prijambodo, Rege, Jahng, Luo, Tassanawipas,
+  Acharya, Pokharel, Shen, Ito, Zhang, Aithala~P, Kumar, Jabir, Basu, Li,
+  Moudgil, Sham, and Samartzis]{Williams2015}
+Richard Williams, Jason Pui~Yin Cheung, Ben Goss, Shanmuganathan Rajasekaran,
+  Yoshiharu Kawaguchi, Shankar Acharya, Mamoru Kawakami, Shigenobu Satoh,
+  Wen-Jer Chen, Chun-Kun Park, Chong-Suh Lee, Thanit Foocharoen, Hideki
+  Nagashima, Sunguk Kuh, Zhaomin Zheng, Richard Condor, Manabu Ito, Motoki
+  Iwasaki, Je~Hoon Jeong, Keith D.~K. Luk, Bambang Prijambodo, Amol Rege,
+  Tae-Ahn Jahng, Zhuojing Luo, Warat Tassanawipas, Narayana Acharya, Rohit
+  Pokharel, Yong Shen, Takui Ito, Zhihai Zhang, Janardhana Aithala~P,
+  Gomatam~Vijay Kumar, Rahyussalim~Ahmad Jabir, Saumyajit Basu, Baojun Li,
+  Vishal Moudgil, Phoebe Sham, and Dino Samartzis.
+\newblock An international multicenter study assessing the role of ethnicity on
+  variation of lumbar facet joint orientation and the occurrence of
+  degenerative spondylolisthesis in asia pacific: A study from the aospine asia
+  pacific research collaboration consortium.
+\newblock \emph{Global Spine Journal}, 6\penalty0 (1):\penalty0 35–45, July
+  2015.
+\newblock ISSN 2192-5690.
+\newblock \doi{10.1055/s-0035-1555655}.
+\newblock URL \url{http://dx.doi.org/10.1055/s-0035-1555655}.
+
+\bibitem[Wáng et~al.(2023)Wáng, Guglielmi, Guermazi, Kwok, and
+  Griffith]{Wng2023}
+Yi~Xiang~J. Wáng, Giuseppe Guglielmi, Ali Guermazi, Timothy C.~Y. Kwok, and
+  James~F. Griffith.
+\newblock Much lower prevalence and severity of spine degenerative changes
+  among older chinese women than among older caucasian women and its
+  implication for the interpretation of lumbar spine bmd t-score for chinese
+  women.
+\newblock \emph{Skeletal Radiology}, 53\penalty0 (2):\penalty0 247–251,
+  August 2023.
+\newblock ISSN 1432-2161.
+\newblock \doi{10.1007/s00256-023-04419-z}.
+\newblock URL \url{http://dx.doi.org/10.1007/s00256-023-04419-z}.
 
 \bibitem[Yang et~al.(2025)Yang, Yao, Tasmin, Vashisht, Jang, Ouyang, Wang,
   McManus, Berlowitz, and Yu]{Yang2025}
