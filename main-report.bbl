@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{28}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -227,6 +227,13 @@ Tyler~J. Richards, Adam~E. Flanders, Errol Colak, Luciano~M. Prevedello,
 \newblock \doi{10.1148/ryai.250480}.
 \newblock URL \url{http://dx.doi.org/10.1148/ryai.250480}.
 
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox]{ronneberger2015unetconvolutionalnetworksbiomedical}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation,
+  2015.
+\newblock URL \url{https://arxiv.org/abs/1505.04597}.
+
 \bibitem[Rudin(2019)]{rudin2019stopexplainingblackbox}
 Cynthia Rudin.
 \newblock Stop explaining black box machine learning models for high stakes
@@ -234,7 +241,7 @@ Cynthia Rudin.
 \newblock URL \url{https://arxiv.org/abs/1811.10154}.
 
 \bibitem[Selvaraju et~al.(2019)Selvaraju, Cogswell, Das, Vedantam, Parikh, and
-  Batra]{Selvaraju_2019}
+  Batra]{Selvaraju2019}
 Ramprasaath~R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam,
   Devi Parikh, and Dhruv Batra.
 \newblock Grad-cam: Visual explanations from deep networks via gradient-based
@@ -264,6 +271,12 @@ Sud Sudirman.
 Sud Sudirman.
 \newblock Lumbar spine mri dataset, 2019{\natexlab{b}}.
 \newblock URL \url{https://data.mendeley.com/datasets/k57fr854j2/2}.
+
+\bibitem[Tan and Le(2020)]{tan2020efficientnetrethinkingmodelscaling}
+Mingxing Tan and Quoc~V. Le.
+\newblock Efficientnet: Rethinking model scaling for convolutional neural
+  networks, 2020.
+\newblock URL \url{https://arxiv.org/abs/1905.11946}.
 
 \bibitem[Wang and Lin(2019)]{wang2019hybridpredictivemodelinterpretable}
 Tong Wang and Qihang Lin.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  22 MAR 2026 21:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.1)  23 MAR 2026 08:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -164,9 +164,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-] [3] [4] [5] (./main-report.bbl
+Package natbib Warning: Citation `Selvaraju_2019' on page 2 undefined on input 
+line 23.
+
+[2
+
+] [3] [4] [5] [6] (./main-report.bbl
 Underfull \hbox (badness 5771) in paragraph at lines 10--19
 []\OT1/cmr/m/n/10 Haider Na-jim Al-Tameemi, Sat-tar Al-Essawi, Mah-mud Shukri, 
 and
@@ -208,7 +213,7 @@ Underfull \hbox (badness 1546) in paragraph at lines 67--77
 ^^S^^Pa\OT1/cmr/m/n/10 , 67(3):175{180,
  []
 
-[6
+[7
 
 ]
 Underfull \hbox (badness 4595) in paragraph at lines 128--134
@@ -264,65 +269,81 @@ Underfull \hbox (badness 1057) in paragraph at lines 168--175
 URL
  []
 
-[7]
-Underfull \hbox (badness 2277) in paragraph at lines 238--247
+[8]
+Underfull \hbox (badness 1755) in paragraph at lines 232--236
+[]\OT1/cmr/m/n/10 Olaf Ron-neberger, Philipp Fis-cher, and Thomas Brox.  U-net:
+ Con-
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 232--236
+\OT1/cmr/m/n/10 vo-lu-tional net-works for biomed-i-cal im-age seg-men-ta-tion,
+ 2015.  URL
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 245--254
 []\OT1/cmr/m/n/10 Ramprasaath R. Sel-varaju, Michael Cogswell, Ab-hishek Das, R
 a-makr-
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 238--247
+Underfull \hbox (badness 2103) in paragraph at lines 245--254
 \OT1/cmr/m/n/10 ishna Vedan-tam, Devi Parikh, and Dhruv Ba-tra.  Grad-cam: Vi-
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 238--247
+Underfull \hbox (badness 1939) in paragraph at lines 245--254
 \OT1/cmr/m/n/10 sual ex-pla-na-tions from deep net-works via gradient-based lo-
 cal-iza-tion.
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 238--247
+Underfull \hbox (badness 4859) in paragraph at lines 245--254
 \OT1/cmr/m/it/10 In-ter-na-tional Jour-nal of Com-puter Vi-sion\OT1/cmr/m/n/10 
 , 128(2):336{359, Oc-to-ber
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 238--247
+Underfull \hbox (badness 2884) in paragraph at lines 245--254
 \OT1/cmr/m/n/10 2019.  ISSN 1573-1405.  doi: 10.1007/s11263-019-01228-7.  URL
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 264--267
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 271--274
 []\OT1/cmr/m/n/10 Sud Sudirman.  Lum-bar spine mri dataset, 2019b.  URL
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 269--273
+Underfull \hbox (badness 1005) in paragraph at lines 282--286
 []\OT1/cmr/m/n/10 Tong Wang and Qi-hang Lin.  Hy-brid pre-dic-tive model: When 
 an in-
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 269--273
+Underfull \hbox (badness 1442) in paragraph at lines 282--286
 \OT1/cmr/m/n/10 ter-pretable model col-lab-o-rates with a black-box model, 2019
 .  URL
  []
 
-) [9] (./main-report.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[10] (./main-report.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2393 strings out of 467525
- 39794 string characters out of 5418983
- 450704 words of memory out of 5000000
- 31292 multiletter control sequences out of 15000+600000
+ 2399 strings out of 467525
+ 40112 string characters out of 5418983
+ 450804 words of memory out of 5000000
+ 31298 multiletter control sequences out of 15000+600000
  632797 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,6n,67p,1545b,272s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,6n,67p,1545b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -330,10 +351,10 @@ usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
 r/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main-report.pdf (9 pages, 139838 bytes).
+Output written on main-report.pdf (10 pages, 142961 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
