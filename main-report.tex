@@ -79,6 +79,28 @@ To deal with it, our system will employ de-identification pipelines before data 
 While advanced AI tools are often limited to high-resource urban hospitals, our system’s focus on textual explanation can actually promote health equity. By providing a clear, evidence-based reasoning summary, the tool can support non-specialist clinicians (e.g., family doctors in rural Ontario) in making more accurate triage decisions, thereby reducing unnecessary referrals to overburdened specialists \citep{Vergara2025}. 
 For future equity goals, we acknowledge the risk of linguistic bias in LLMs, which primarily perform best in English. To ensure equity for Canada’s diverse population, future iterations must validate the LLM’s explanatory performance in French and other widely spoken languages to prevent “interpretability gaps” for non-English speaking practitioners.
 
+\section{Stakeholders and Implementation Context}
+\subsection{Stakeholders}
+Radiologists are the primary users of the system. They will benefit from automated severity assessments accompanied by structured, reasoning-based reports. The system is designed as a decision-support tool, providing an initial diagnostic report that the radiologist can review and finalize.
+
+Patients are indirect beneficiaries. While they do not access the AI directly, radiologists can use the reasoning-based reports to create clear, patient-friendly summaries. By supporting consistent severity assessments and highlighting key anatomical findings, the system helps ensure reliable, understandable, and standardized communication of lumbar spinal stenosis results, enhancing patient comprehension and shared decision-making.
+
+Hospital IT Departments are essential for deployment and maintenance, ensuring smooth integration with PACS/DICOM systems, secure handling of patient data, and compliance with hospital IT infrastructure and regulatory standards.
+
+\subsection{Implementation}
+The system will be deployed as a supporting tool, not a replacement for clinical judgment. It provides initial results and a reasoning-based draft report that highlights the anatomical basis for the AI’s prediction, such as reductions in thecal sac or nerve root areas at specific vertebral levels. Radiologists can quickly validate the AI’s assessment by focusing on relevant regions, rather than performing a full conventional review, and edit the report as needed. By acting as an editable draft, similar to reviewing a trainee’s report, the system saves time in both validating AI decisions and generating final reports, while maintaining full human oversight and compliance with regulatory guidelines.
+
+\subsection{Engagement and Contextual Factors}
+
+Radiologists and IT staff will be involved during co-design, and evaluation phases to ensure usability and integration with existing workflows. 
+
+\subsection{Feasibility}
+Integration with existing PACS/DICOM systems, compatibility with hospital IT systems and security protocols.
+
+\subsection{Acceptability and Uptake} 
+Clinical adoption will depend on demonstrable time savings, consistency of severity grading, interpretability of AI outputs, and alignment with regulatory guidelines (e.g., Health Canada’s Software as a Medical Device framework).
+
+
 
 
 
