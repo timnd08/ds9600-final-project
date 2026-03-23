@@ -1,7 +1,7 @@
 File notes:
-main-report.pdf: main pdf file
-main-report.tex: editable tex file <- edit this 
-references.bib: contains all citations, if wanna add extra, paste your DOI into this website (https://www.doi2bib.org/), copy bibtex file and paste it in references.bib
+- main-report.pdf: main pdf file
+- main-report.tex: editable tex file <- edit this 
+- references.bib: contains all citations, if wanna add extra, paste your DOI into this website (https://www.doi2bib.org/), copy bibtex file and paste it in references.bib
 then you can add new reference in the main tex file (check out other paragraph for citation examples, note: \citet{} for text native citation, \citep{} for citation with parentheses. 
 
 To make edition to Latex:
