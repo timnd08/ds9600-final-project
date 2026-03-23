@@ -1,3 +1,10 @@
 \contentsline {section}{\numberline {1}Problem Statement}{2}{}%
 \contentsline {section}{\numberline {2}Rationale and Background}{2}{}%
 \contentsline {subsection}{\numberline {2.1}Clinical Burden and Diagnostic Variability}{2}{}%
+\contentsline {subsection}{\numberline {2.2}The Rise and Limitations of Deep Learning in Biology}{3}{}%
+\contentsline {subsection}{\numberline {2.3}The Unfeasiability of Interpretable AI}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Explainable AI \& its “Semantic Gap”}{3}{}%
+\contentsline {subsection}{\numberline {2.5}Identifying the Gap: The Need for Vision-Language Fusion}{4}{}%
+\contentsline {section}{\numberline {3}Proposed ML/AI System or Solution}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Datasets}{5}{}%
+\contentsline {paragraph}{Phase 1: Quantitative ML Prediction Framework}{5}{}%
