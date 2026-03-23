@@ -9,3 +9,5 @@ To make edition to Latex:
 2. make changes
 3. COMMIT
 4. text tim so he can compile pdf file
+
+if unsure about what to do, please text tim (answer within 1 business hour except Mon&Tue afternoons)
