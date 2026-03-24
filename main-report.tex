@@ -12,11 +12,8 @@
 \title{Winter 2026: DS9600 Final Project \\ \textbf {Beyond the Black Box: A Multimodal XAI Framework for Lumbar Spinal Stenosis Grading via Integrated MRI Analysis and LLM-Driven Clinical Reasoning}}
 \author{Ahmed Mohamed, (Helen) Yixiu He, Yan Yi Li, Tim Nguyen}
 \date{}
-
 \begin{document}
 \maketitle
-
-
 \section{Problem Statement}
 \label{problem_statement}
 Medical imaging sits at the heart of modern diagnosis, yet the professionals who interpret these images are in short supply and under mounting pressure. Radiologists face a rising diagnostic workload that has outpaced workforce growth, leaving many to extend hours and absorb ever-greater productivity expectations \citep{Jing2025}. This unsustainable pace has fuelled widespread burnout: 46\% of radiologists in private practice report burnout, a figure strongly associated with evening, overnight, and weekend call schedules \citep{Parikh2023}, while academic radiology is not immune, with an overall prevalence of 37.4\% \citep{Higgins2021}. Proposed mitigations, such as flexible scheduling, part-time arrangements and teleradiology services, address symptoms rather than root causes \citep{Rawson2024}. The fundamental issue remains a structural shortage of qualified radiologists \citep{Jing2025}.
@@ -24,15 +21,12 @@ The downstream consequences are serious and systemic. Excessive workloads, compo
 To address this challenge, researchers have developed computer-vision pipelines to assist with medical image interpretation: U-Net architectures for region-of-interest (ROI) segmentation \citep{Silveira2025}, convolutional networks for classification, and Grad-CAM for generating visual feature-importance heatmaps \citep{Selvaraju2019}. While promising, these tools face a critical barrier to clinical adoption — opacity. In a clinical survey, 56\% of radiologists cited lack of transparency as a major obstacle \citep{aravazhi2024}, noting that heatmaps alone provide insufficient motivation for predictions and that textual explanations are strongly preferred \citep{gale2018producingradiologistqualityreportsinterpretable, kayser2024fooloncecontrastingtextual}.
 This project proposes an interdisciplinary framework that pairs established computer vision methods with multimodal large language models (MLLMs) to generate structured, evidence-grounded clinical explanations, not to replace radiologist judgment, but to make AI-assisted diagnosis transparent enough to be trustworthy and useful in practice.
 
-
 \section{Rationale and Background}
 \subsection{Clinical Burden and Diagnostic Variability}
 Lumbar Spinal Stenosis (LSS) is a leading cause of neurogenic claudication and a primary indication for spinal surgery in adults over 60, affecting an estimated 11\% of the general population \citep{Munakomi2023}. MRI is the diagnostic gold standard; however, manual assessment across multiple spinal levels (L1–S1) is labour-intensive and subject to significant inter-observer variability. Even among expert radiologists, agreement on stenosis grading reaches only “moderate” levels (Cohen’s kappa 0.40–0.57) \citep{AlTameemi2017, Holc2023}. This inconsistency can produce misaligned treatment plans, from unnecessary surgeries to delayed interventions, making decision-support tools both clinically and practically valuable.
 
-
 \subsection{Deep Learning Performance and Its Limits}
 Recent deep learning advances have demonstrated that CNNs can achieve expert-level accuracy in LSS classification, with architectures combining U-Net segmentation and CNN-based classifiers exceeding 0.94 accuracy \citep{Liu2025}. Despite this performance, these models function primarily as “black boxes.” As noted above, a majority of radiologists cite transparency as a key barrier to adoption \citep{aravazhi2024}. Existing visual explanation tools such as Grad-CAM highlight regions of model attention, but are frequently criticized in the medical literature for being noisy and anatomically imprecise, failing to reliably distinguish pathologically relevant areas from background \citep{Houssein2025, Muhammad2024}.
-
 
 \subsection{The Infeasibility of Fully Interpretable Models}
 One response to black-box opacity is to adopt inherently interpretable models. In high-stakes domains such as medicine and law, simple models like linear or logistic regression and decision lists are favoured for their transparency \citep{wang2019hybridpredictivemodelinterpretable}, and several researchers advocate for prioritizing interpretability over performance \citep{rudin2019stopexplainingblackbox}. However, as \cite{rudin2019stopexplainingblackbox} acknowledges, this approach is particularly challenging, if not impossible, for complex perceptual tasks like medical image analysis. Computer vision pipelines rely on learned spatial representations that cannot be meaningfully replicated by linear or rule-based methods, making fully interpretable alternatives impractical in this context. This leaves explainability, layering interpretive outputs onto existing black-box architectures, as the more viable path.
@@ -100,7 +94,6 @@ Acceptability and Uptake: Clinical adoption will depend on demonstrable time sav
 
 \section{Innovation \& Contribution}
 The proposed framework introduces a novel method for the automated detection and classification of LSS severity through two primary innovations: (1) A Modular Vision-to-Text Diagnostic Pipeline: We propose a staged architecture that mimics clinical diagnostic logic: a 2D U-Net first performs precise anatomical segmentation to extract quantitative morphometrics and isolate Region of Interest (ROI), which is then passed to a specialized classifier for severity grading. This is integrated with a Zero-Shot NLP engine that organizes these measurements and visual attention features (Grad-CAM) into a structured reasoning report. By informing the physician of the exact evidence used to reach a decision, this framework transforms the AI from a "black box" into a transparent assistant, drastically reducing the time required for clinical validation. (2) Automated Reliability Auditing via Spatial Attention Overlap. To ensure the model focuses on relevant pathology, we introduce a "Reliability Score" that provides a quantitative check of the model's logic. This score mathematically measures the spatial overlap between the model’s visual attention (Grad-CAM) and the anatomical segmentation masks it generated. By verifying that the model's focus is physically tethered to the relevant anatomy, rather than image noise or artifacts, we establish a verifiable standard for trust and interpretability in spinal imaging AI.
-
 
 
 \clearpage
