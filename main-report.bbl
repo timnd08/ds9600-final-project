@@ -1,0 +1,419 @@
+\begin{thebibliography}{36}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Al-Tameemi et~al.(2017)Al-Tameemi, Al-Essawi, Shukri, and
+  Naji]{AlTameemi2017}
+Haider~Najim Al-Tameemi, Sattar Al-Essawi, Mahmud Shukri, and Farah~Kasim Naji.
+\newblock Using magnetic resonance myelography to improve interobserver
+  agreement in the evaluation of lumbar spinal canal stenosis and root
+  compression.
+\newblock \emph{Asian Spine Journal}, 11\penalty0 (2):\penalty0 198–203,
+  April 2017.
+\newblock ISSN 1976-7846.
+\newblock \doi{10.4184/asj.2017.11.2.198}.
+\newblock URL \url{http://dx.doi.org/10.4184/asj.2017.11.2.198}.
+
+\bibitem[Aravazhi et~al.(2024)Aravazhi, Ravindran, Balasubramani, Kamil,
+  Gouthaman, Karki, Thiyagarajan, and Sureshkumar~Nair]{aravazhi2024}
+Prasanna~Sakthi Aravazhi, Kumaran~Ottilingam Ravindran, Kanika Balasubramani,
+  Mohammed Kamil, Kanishka Gouthaman, Lalit Karki, Sandhiya Thiyagarajan, and
+  Akshay Sureshkumar~Nair.
+\newblock Radiologists’ perceptions and readiness for integrating artificial
+  intelligence in diagnostic imaging: A survey-based study.
+\newblock \emph{Bioinformation}, 20\penalty0 (12):\penalty0 1943–1947,
+  December 2024.
+\newblock ISSN 0973-2063.
+\newblock \doi{10.6026/9732063002001943}.
+\newblock URL \url{http://dx.doi.org/10.6026/9732063002001943}.
+
+\bibitem[Bergomi et~al.(2025)Bergomi, Nicora, Orlowska, Podrecca, Bellazzi,
+  Fregosi, Salinaro, Bonzano, Crescenzi, Speciale, Di~Pietro, Zuccaro,
+  Asperges, Sacchi, Valsecchi, Pagani, Catalano, Bortolotto, Preda, and
+  Parimbelli]{Bergomi2025}
+Laura Bergomi, Giovanna Nicora, Marta~Anna Orlowska, Chiara Podrecca, Riccardo
+  Bellazzi, Caterina Fregosi, Francesco Salinaro, Marco Bonzano, Giuseppe
+  Crescenzi, Francesco Speciale, Santi Di~Pietro, Valentina Zuccaro, Erika
+  Asperges, Paolo Sacchi, Pietro Valsecchi, Elisabetta Pagani, Michele
+  Catalano, Chandra Bortolotto, Lorenzo Preda, and Enea Parimbelli.
+\newblock Which explanations do clinicians prefer? a comparative evaluation of
+  xai understandability and actionability in predicting the need for
+  hospitalization.
+\newblock \emph{BMC Medical Informatics and Decision Making}, 25\penalty0 (1),
+  July 2025.
+\newblock ISSN 1472-6947.
+\newblock \doi{10.1186/s12911-025-03045-0}.
+\newblock URL \url{http://dx.doi.org/10.1186/s12911-025-03045-0}.
+
+\bibitem[{Canadian Association of Radiologists}(2025)]{nanos}
+{Canadian Association of Radiologists}.
+\newblock Nanos research survey, commissioned by the canadian association of
+  radiologists (april 25th and may 1st, 2025, polled 1,013 canadians aged
+  25–65), 2025.
+
+\bibitem[Cournane et~al.(2016)Cournane, Conway, Creagh, Byrne, Sheehy, and
+  Silke]{Cournane2016}
+S.~Cournane, R.~Conway, D.~Creagh, D.G. Byrne, N.~Sheehy, and B.~Silke.
+\newblock Radiology imaging delays as independent predictors of length of
+  hospital stay for emergency medical admissions.
+\newblock \emph{Clinical Radiology}, 71\penalty0 (9):\penalty0 912–918,
+  September 2016.
+\newblock ISSN 0009-9260.
+\newblock \doi{10.1016/j.crad.2016.03.023}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.crad.2016.03.023}.
+
+\bibitem[Gale et~al.(2018)Gale, Oakden-Rayner, Carneiro, Bradley, and
+  Palmer]{gale2018producingradiologistqualityreportsinterpretable}
+William Gale, Luke Oakden-Rayner, Gustavo Carneiro, Andrew~P Bradley, and
+  Lyle~J Palmer.
+\newblock Producing radiologist-quality reports for interpretable artificial
+  intelligence, 2018.
+\newblock URL \url{https://arxiv.org/abs/1806.00340}.
+
+\bibitem[Higgins et~al.(2021)Higgins, Nguyen, Kosowsky, Unan, Mete, Rowe, and
+  Marchalik]{Higgins2021}
+Mikhail~C.S.S. Higgins, Minh-Thuy Nguyen, Tova Kosowsky, Lizz Unan, Mihriye
+  Mete, Susannah Rowe, and Daniel Marchalik.
+\newblock Burnout, professional fulfillment, intention to leave, and
+  sleep-related impairment among faculty radiologists in the united states: An
+  epidemiologic study.
+\newblock \emph{Journal of the American College of Radiology}, 18\penalty0
+  (9):\penalty0 1359–1364, September 2021.
+\newblock ISSN 1546-1440.
+\newblock \doi{10.1016/j.jacr.2021.04.005}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2021.04.005}.
+
+\bibitem[Holc et~al.(2023)Holc, Albani-Forneris, Kido, Beltrame, Petracchi,
+  Gruenberg, Sola, and Camino-Willhuber]{Holc2023}
+F.~Holc, A.~Albani-Forneris, G.~Kido, S.~Beltrame, M.~Petracchi, M.~Gruenberg,
+  C.~Sola, and G.~Camino-Willhuber.
+\newblock Independent inter and intra-observer agreement of the schizas’s
+  classification of degenerative lumbar stenosis: Comparison among three levels
+  of surgical training.
+\newblock \emph{Revista Española de Cirugía Ortopédica y Traumatología},
+  67\penalty0 (3):\penalty0 175–180, May 2023.
+\newblock ISSN 1888-4415.
+\newblock \doi{10.1016/j.recot.2022.10.003}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.recot.2022.10.003}.
+
+\bibitem[Houssein et~al.(2025)Houssein, Gamal, Younis, and
+  Mohamed]{Houssein2025}
+Essam~H. Houssein, Amr~M. Gamal, Eman M.~G. Younis, and Ebtsam Mohamed.
+\newblock Explainable artificial intelligence for medical imaging systems using
+  deep learning: a comprehensive review.
+\newblock \emph{Cluster Computing}, 28\penalty0 (7), July 2025.
+\newblock ISSN 1573-7543.
+\newblock \doi{10.1007/s10586-025-05281-5}.
+\newblock URL \url{http://dx.doi.org/10.1007/s10586-025-05281-5}.
+
+\bibitem[Jing et~al.(2025)Jing, Garg, Zhang, and Brown]{Jing2025}
+Andrew~B. Jing, Naveen Garg, Jiajie Zhang, and Jeffrey~J. Brown.
+\newblock Ai solutions to the radiology workforce shortage.
+\newblock \emph{npj Health Systems}, 2\penalty0 (1), May 2025.
+\newblock ISSN 3005-1959.
+\newblock \doi{10.1038/s44401-025-00023-6}.
+\newblock URL \url{http://dx.doi.org/10.1038/s44401-025-00023-6}.
+
+\bibitem[Kalichman et~al.(2009)Kalichman, Guermazi, Li, and
+  Hunter]{Kalichman2009}
+Leonid Kalichman, Ali Guermazi, Ling Li, and David~J. Hunter.
+\newblock Association between age, sex, bmi and ct-evaluated spinal
+  degeneration features.
+\newblock \emph{Journal of Back and Musculoskeletal Rehabilitation},
+  22\penalty0 (4):\penalty0 189–195, December 2009.
+\newblock ISSN 1053-8127.
+\newblock \doi{10.3233/bmr-2009-0232}.
+\newblock URL \url{http://dx.doi.org/10.3233/BMR-2009-0232}.
+
+\bibitem[Kayser et~al.(2024)Kayser, Menzat, Emde, Bercean, Novak, Espinosa,
+  Papiez, Gaube, Lukasiewicz, and
+  Camburu]{kayser2024fooloncecontrastingtextual}
+Maxime Kayser, Bayar Menzat, Cornelius Emde, Bogdan Bercean, Alex Novak, Abdala
+  Espinosa, Bartlomiej~W. Papiez, Susanne Gaube, Thomas Lukasiewicz, and
+  Oana-Maria Camburu.
+\newblock Fool me once? contrasting textual and visual explanations in a
+  clinical decision-support setting, 2024.
+\newblock URL \url{https://arxiv.org/abs/2410.12284}.
+
+\bibitem[Liu et~al.(2025)Liu, Rashid, Boulaaras, Saleem, and Faheem]{Liu2025}
+Yonghong Liu, Javed Rashid, Salah~Mahmoud Boulaaras, Muhammad~Shoaib Saleem,
+  and Muhammad Faheem.
+\newblock Automated lumbar spine degenerative classification using deep
+  learning: A comprehensive evaluation based on rsna 2024.
+\newblock \emph{International Journal of Computational Intelligence Systems},
+  18\penalty0 (1), December 2025.
+\newblock ISSN 1875-6883.
+\newblock \doi{10.1007/s44196-025-01098-7}.
+\newblock URL \url{http://dx.doi.org/10.1007/s44196-025-01098-7}.
+
+\bibitem[Lu et~al.(2022)Lu, Sattler, Wang, Khaki, Callahan, Fleming, Fong,
+  Ehlert, Li, Shieh, Ramchandran, Gensheimer, Chobot, Pfohl, Li, Shum, Parikh,
+  Desai, Seevaratnam, Hanson, Smith, Xu, Gokhale, Lin, Pfeffer, Teuteberg, and
+  Shah]{Lu2022}
+Jonathan Lu, Amelia Sattler, Samantha Wang, Ali~Raza Khaki, Alison Callahan,
+  Scott Fleming, Rebecca Fong, Benjamin Ehlert, Ron~C. Li, Lisa Shieh, Kavitha
+  Ramchandran, Michael~F. Gensheimer, Sarah Chobot, Stephen Pfohl, Siyun Li,
+  Kenny Shum, Nitin Parikh, Priya Desai, Briththa Seevaratnam, Melanie Hanson,
+  Margaret Smith, Yizhe Xu, Arjun Gokhale, Steven Lin, Michael~A. Pfeffer,
+  Winifred Teuteberg, and Nigam~H. Shah.
+\newblock Considerations in the reliability and fairness audits of predictive
+  models for advance care planning.
+\newblock \emph{Frontiers in Digital Health}, 4, September 2022.
+\newblock ISSN 2673-253X.
+\newblock \doi{10.3389/fdgth.2022.943768}.
+\newblock URL \url{http://dx.doi.org/10.3389/fdgth.2022.943768}.
+
+\bibitem[Muhammad and Bendechache(2024)]{Muhammad2024}
+Dost Muhammad and Malika Bendechache.
+\newblock Unveiling the black box: A systematic review of explainable
+  artificial intelligence in medical image analysis.
+\newblock \emph{Computational and Structural Biotechnology Journal},
+  24:\penalty0 542–560, December 2024.
+\newblock ISSN 2001-0370.
+\newblock \doi{10.1016/j.csbj.2024.08.005}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.csbj.2024.08.005}.
+
+\bibitem[Munakomi et~al.(2023)Munakomi, Foris, and Varacallo]{Munakomi2023}
+S.~Munakomi, L.~A. Foris, and M.~A. Varacallo.
+\newblock Spinal stenosis and neurogenic claudication.
+\newblock In: StatPearls [Internet]. Treasure Island (FL): StatPearls
+  Publishing; 2026 Jan-, 2023.
+\newblock URL \url{https://www.ncbi.nlm.nih.gov/books/NBK430872/}.
+\newblock [Updated 2023 Aug 13].
+
+\bibitem[Omar et~al.(2025)Omar, Sorin, Collins, Reich, Freeman, Gavin, Charney,
+  Stump, Bragazzi, Nadkarni, and Klang]{Omar2025}
+Mahmud Omar, Vera Sorin, Jeremy~D. Collins, David Reich, Robert Freeman,
+  Nicholas Gavin, Alexander Charney, Lisa Stump, Nicola~Luigi Bragazzi,
+  Girish~N. Nadkarni, and Eyal Klang.
+\newblock Multi-model assurance analysis showing large language models are
+  highly vulnerable to adversarial hallucination attacks during clinical
+  decision support.
+\newblock \emph{Communications Medicine}, 5\penalty0 (1), August 2025.
+\newblock ISSN 2730-664X.
+\newblock \doi{10.1038/s43856-025-01021-3}.
+\newblock URL \url{http://dx.doi.org/10.1038/s43856-025-01021-3}.
+
+\bibitem[Pal and Sankarasubbu(2024)]{pal2024geminigoesmedschool}
+Ankit Pal and Malaikannan Sankarasubbu.
+\newblock Gemini goes to med school: Exploring the capabilities of multimodal
+  large language models on medical challenge problems \& hallucinations, 2024.
+\newblock URL \url{https://arxiv.org/abs/2402.07023}.
+
+\bibitem[Panboonyuen(2026)]{panboonyuen2026seeingisntbelievinganalysis}
+Teerapong Panboonyuen.
+\newblock Seeing isn't always believing: Analysis of grad-cam faithfulness and
+  localization reliability in lung cancer ct classification, 2026.
+\newblock URL \url{https://arxiv.org/abs/2601.12826}.
+
+\bibitem[Parikh et~al.(2023)Parikh, Moore, Mead, Bassett, and
+  Rubin]{Parikh2023}
+Jay~R. Parikh, Arl~Van Moore, Lisa Mead, Roland Bassett, and Eric Rubin.
+\newblock Prevalence of burnout of radiologists in private practice.
+\newblock \emph{Journal of the American College of Radiology}, 20\penalty0
+  (7):\penalty0 712–718, July 2023.
+\newblock ISSN 1546-1440.
+\newblock \doi{10.1016/j.jacr.2023.01.007}.
+\newblock URL \url{http://dx.doi.org/10.1016/j.jacr.2023.01.007}.
+
+\bibitem[Rawson et~al.(2024)Rawson, Smetherman, and Rubin]{Rawson2024}
+James~V. Rawson, Dana Smetherman, and Eric Rubin.
+\newblock Short-term strategies for augmenting the national radiologist
+  workforce.
+\newblock \emph{American Journal of Roentgenology}, 222\penalty0 (6), June
+  2024.
+\newblock ISSN 1546-3141.
+\newblock \doi{10.2214/ajr.24.30920}.
+\newblock URL \url{http://dx.doi.org/10.2214/ajr.24.30920}.
+
+\bibitem[Richards et~al.(2026)Richards, Flanders, Colak, Prevedello, Ball,
+  Kitamura, Mongan, Vazirabad, Lin, Kendell, Kanthawang, Angkurawaranon,
+  Altinmakas, Dogan, Kuriki, Somasundaram, Rushton, Bulja, Spahović, Sommer,
+  Jiang, Farina, Caminha~Nunes, Brassil, McNamara, Ortiz, Peoples, Uytana, Kam,
+  Dola, Murphy, Vu, Hakim, Talbott, Yost, Berg, Hadzalic, Chowdhury, Waters,
+  Harris, Rizwan, Yue, Hakim, Chan, Uytana, Kam, Dola, Bathla, Ting, Murphy,
+  Vu, Choudhary, Lim, Farage, Lincoln, Chew, Bailey, de~Oliveira, Moron, Singh,
+  Sollmann, Seifert, Schwartz, Montaño, Chung, Shah, Chan, Andersen, Hutchins,
+  Nassanga, Masum, Soderlund, Chong, Clemente, Hussain, Low, Hadi, Hollander,
+  Rahim, Capera, Mitchell, D’Anna, Hoeffner, Go, Diaz, Ormsby, Nath, von
+  Fischer, Zohrabian, Muthukumarasamy, Vlok, Paruk, Anwar, Cruciata, Islam,
+  Siakallis, Ikuta, Suri, Wentland, Trivedi, and Sho]{Richards2026}
+Tyler~J. Richards, Adam~E. Flanders, Errol Colak, Luciano~M. Prevedello,
+  Robyn~L. Ball, Felipe Kitamura, John Mongan, Maryam Vazirabad, Hui-Ming Lin,
+  Anne Kendell, Thanat Kanthawang, Salita Angkurawaranon, Emre Altinmakas,
+  Hakan Dogan, Paulo Eduardo de~Aguiar Kuriki, Arjuna Somasundaram, Christopher
+  Rushton, Deniz Bulja, Naida Spahović, Jennifer Sommer, Sirui Jiang, Eduardo
+  Moreno Júdice de~Mattos Farina, Eduardo Caminha~Nunes, Michael Brassil,
+  Megan McNamara, Johanna Ortiz, Jacob Peoples, Vinson~L. Uytana, Anthony Kam,
+  Venkata N.~S. Dola, Daniel Murphy, David Vu, Arsany Hakim, Jason~F. Talbott,
+  Samantha Yost, Nedim~Kruscica Berg, Damir Hadzalic, Rahin Chowdhury, Conor
+  Waters, Johnathon Harris, Arsalan~P. Rizwan, Jianwei Yue, Arsany Hakim,
+  Lai~Peng Chan, Vinson~Louis Uytana, Anthony Kam, Venkata Naga~Srinivas Dola,
+  Girish Bathla, Yonghan Ting, Daniel Murphy, David Vu, Gagandeep Choudhary,
+  Tze~Chwan Lim, Luciano Farage, Christie Lincoln, Kian~Ming Chew, Katie
+  Bailey, Eduardo~Portela de~Oliveira, Fanny Moron, Achint~Kumar Singh, Nico
+  Sollmann, Kim Seifert, Eric~D. Schwartz, Mariana~Sanchez Montaño, Charlotte
+  Yuk-Yan Chung, Lubdha Shah, Ling~Ling Chan, Scott~R. Andersen, Troy Hutchins,
+  Rita Nassanga, Rukya~Ali Masum, Karl Soderlund, Le~Roy Chong, Jonathan~D.
+  Clemente, Ali~Haikal Hussain, Keynes Low, Mohiuddin Hadi, Michael Hollander,
+  Nurul Hafidzah~Binti Rahim, Angela~Guarnizo Capera, Lex~A. Mitchell, Gennaro
+  D’Anna, Ellen Hoeffner, John~L. Go, Facundo~Nahuel Diaz, Jacob Ormsby, Jaya
+  Nath, Nathaniel von Fischer, Vahe~M. Zohrabian, Mary~Niroshinee
+  Muthukumarasamy, Sucari Vlok, Nafisa Paruk, Shayan Sirat~Maheen Anwar,
+  Giuseppe Cruciata, Omar Islam, Loizos Siakallis, Ichiro Ikuta, Abhinav Suri,
+  Andrew Wentland, Hari Trivedi, and Jason Sho.
+\newblock The rsna lumbar degenerative imaging spine classification
+  (lumbardisc) dataset.
+\newblock \emph{Radiology: Artificial Intelligence}, 8\penalty0 (2), March
+  2026.
+\newblock ISSN 2638-6100.
+\newblock \doi{10.1148/ryai.250480}.
+\newblock URL \url{http://dx.doi.org/10.1148/ryai.250480}.
+
+\bibitem[Ronneberger et~al.(2015)Ronneberger, Fischer, and
+  Brox]{ronneberger2015unetconvolutionalnetworksbiomedical}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation,
+  2015.
+\newblock URL \url{https://arxiv.org/abs/1505.04597}.
+
+\bibitem[Rudin(2019)]{rudin2019stopexplainingblackbox}
+Cynthia Rudin.
+\newblock Stop explaining black box machine learning models for high stakes
+  decisions and use interpretable models instead, 2019.
+\newblock URL \url{https://arxiv.org/abs/1811.10154}.
+
+\bibitem[Selvaraju et~al.(2019)Selvaraju, Cogswell, Das, Vedantam, Parikh, and
+  Batra]{Selvaraju2019}
+Ramprasaath~R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam,
+  Devi Parikh, and Dhruv Batra.
+\newblock Grad-cam: Visual explanations from deep networks via gradient-based
+  localization.
+\newblock \emph{International Journal of Computer Vision}, 128\penalty0
+  (2):\penalty0 336–359, October 2019.
+\newblock ISSN 1573-1405.
+\newblock \doi{10.1007/s11263-019-01228-7}.
+\newblock URL \url{http://dx.doi.org/10.1007/s11263-019-01228-7}.
+
+\bibitem[Silveira et~al.(2025)Silveira, S., and Kundapur]{Silveira2025}
+Jaysel~Theresa Silveira, Girisha S., and Poornima~Panduranga Kundapur.
+\newblock Automated lumbar spine segmentation in mri using an enhanced u-net
+  with inception module and dual-output mechanism.
+\newblock \emph{Scientific Reports}, 15\penalty0 (1), November 2025.
+\newblock ISSN 2045-2322.
+\newblock \doi{10.1038/s41598-025-20721-3}.
+\newblock URL \url{http://dx.doi.org/10.1038/s41598-025-20721-3}.
+
+\bibitem[Sudirman(2019{\natexlab{a}})]{labelImg}
+Sud Sudirman.
+\newblock Label image ground truth data for lumbar spine mri dataset,
+  2019{\natexlab{a}}.
+\newblock URL \url{https://data.mendeley.com/datasets/zbf6b4pttk/1}.
+
+\bibitem[Sudirman(2019{\natexlab{b}})]{lumbardataset}
+Sud Sudirman.
+\newblock Lumbar spine mri dataset, 2019{\natexlab{b}}.
+\newblock URL \url{https://data.mendeley.com/datasets/k57fr854j2/2}.
+
+\bibitem[Tan and Le(2020)]{tan2020efficientnetrethinkingmodelscaling}
+Mingxing Tan and Quoc~V. Le.
+\newblock Efficientnet: Rethinking model scaling for convolutional neural
+  networks, 2020.
+\newblock URL \url{https://arxiv.org/abs/1905.11946}.
+
+\bibitem[van~de Sande et~al.(2022)van~de Sande, van Bommel, Fung Fen~Chung,
+  Gommers, and van Genderen]{vandeSande2022}
+Davy van~de Sande, Jasper van Bommel, Eline Fung Fen~Chung, Diederik Gommers,
+  and Michel~E. van Genderen.
+\newblock Algorithmic fairness audits in intensive care medicine: artificial
+  intelligence for all?
+\newblock \emph{Critical Care}, 26\penalty0 (1), October 2022.
+\newblock ISSN 1364-8535.
+\newblock \doi{10.1186/s13054-022-04197-5}.
+\newblock URL \url{http://dx.doi.org/10.1186/s13054-022-04197-5}.
+
+\bibitem[Vergara et~al.(2025)Vergara, Oliveira, Mattiello, Montelongo, Roman,
+  Katz, Wives, and Rados]{Vergara2025}
+Piter~Oliveira Vergara, Jeronimo de~Conto Oliveira, Rita Mattiello, Alfredo
+  Montelongo, Rudi Roman, Natan Katz, Leandro~Krug Wives, and Dimitris~Varvaki
+  Rados.
+\newblock Accuracy of artificial intelligence for gatekeeping in referrals to
+  specialized care.
+\newblock \emph{JAMA Network Open}, 8\penalty0 (6):\penalty0 e2513285, June
+  2025.
+\newblock ISSN 2574-3805.
+\newblock \doi{10.1001/jamanetworkopen.2025.13285}.
+\newblock URL \url{http://dx.doi.org/10.1001/jamanetworkopen.2025.13285}.
+
+\bibitem[Wang and Lin(2019)]{wang2019hybridpredictivemodelinterpretable}
+Tong Wang and Qihang Lin.
+\newblock Hybrid predictive model: When an interpretable model collaborates
+  with a black-box model, 2019.
+\newblock URL \url{https://arxiv.org/abs/1905.04241}.
+
+\bibitem[Williams et~al.(2015)Williams, Cheung, Goss, Rajasekaran, Kawaguchi,
+  Acharya, Kawakami, Satoh, Chen, Park, Lee, Foocharoen, Nagashima, Kuh, Zheng,
+  Condor, Ito, Iwasaki, Jeong, Luk, Prijambodo, Rege, Jahng, Luo, Tassanawipas,
+  Acharya, Pokharel, Shen, Ito, Zhang, Aithala~P, Kumar, Jabir, Basu, Li,
+  Moudgil, Sham, and Samartzis]{Williams2015}
+Richard Williams, Jason Pui~Yin Cheung, Ben Goss, Shanmuganathan Rajasekaran,
+  Yoshiharu Kawaguchi, Shankar Acharya, Mamoru Kawakami, Shigenobu Satoh,
+  Wen-Jer Chen, Chun-Kun Park, Chong-Suh Lee, Thanit Foocharoen, Hideki
+  Nagashima, Sunguk Kuh, Zhaomin Zheng, Richard Condor, Manabu Ito, Motoki
+  Iwasaki, Je~Hoon Jeong, Keith D.~K. Luk, Bambang Prijambodo, Amol Rege,
+  Tae-Ahn Jahng, Zhuojing Luo, Warat Tassanawipas, Narayana Acharya, Rohit
+  Pokharel, Yong Shen, Takui Ito, Zhihai Zhang, Janardhana Aithala~P,
+  Gomatam~Vijay Kumar, Rahyussalim~Ahmad Jabir, Saumyajit Basu, Baojun Li,
+  Vishal Moudgil, Phoebe Sham, and Dino Samartzis.
+\newblock An international multicenter study assessing the role of ethnicity on
+  variation of lumbar facet joint orientation and the occurrence of
+  degenerative spondylolisthesis in asia pacific: A study from the aospine asia
+  pacific research collaboration consortium.
+\newblock \emph{Global Spine Journal}, 6\penalty0 (1):\penalty0 35–45, July
+  2015.
+\newblock ISSN 2192-5690.
+\newblock \doi{10.1055/s-0035-1555655}.
+\newblock URL \url{http://dx.doi.org/10.1055/s-0035-1555655}.
+
+\bibitem[Wáng et~al.(2023)Wáng, Guglielmi, Guermazi, Kwok, and
+  Griffith]{Wng2023}
+Yi~Xiang~J. Wáng, Giuseppe Guglielmi, Ali Guermazi, Timothy C.~Y. Kwok, and
+  James~F. Griffith.
+\newblock Much lower prevalence and severity of spine degenerative changes
+  among older chinese women than among older caucasian women and its
+  implication for the interpretation of lumbar spine bmd t-score for chinese
+  women.
+\newblock \emph{Skeletal Radiology}, 53\penalty0 (2):\penalty0 247–251,
+  August 2023.
+\newblock ISSN 1432-2161.
+\newblock \doi{10.1007/s00256-023-04419-z}.
+\newblock URL \url{http://dx.doi.org/10.1007/s00256-023-04419-z}.
+
+\bibitem[Yang et~al.(2025)Yang, Yao, Tasmin, Vashisht, Jang, Ouyang, Wang,
+  McManus, Berlowitz, and Yu]{Yang2025}
+Zhichao Yang, Zonghai Yao, Mahbuba Tasmin, Parth Vashisht, Won~Seok Jang,
+  Feiyun Ouyang, Beining Wang, David McManus, Dan Berlowitz, and Hong Yu.
+\newblock Unveiling gpt-4v’s hidden challenges behind high accuracy on usmle
+  questions: Observational study.
+\newblock \emph{Journal of Medical Internet Research}, 27:\penalty0 e65146,
+  February 2025.
+\newblock ISSN 1438-8871.
+\newblock \doi{10.2196/65146}.
+\newblock URL \url{http://dx.doi.org/10.2196/65146}.
+
+\bibitem[Zhong et~al.(2025)Zhong, Li, Chen, Ge, Yu, Wang, You, and
+  Shang]{Zhong2025}
+Xiaoying Zhong, Siyi Li, Zhao Chen, Long Ge, Dongdong Yu, Shijia Wang,
+  Liangzhen You, and Hongcai Shang.
+\newblock Considerations for patient privacy of large language models in health
+  care: Scoping review.
+\newblock \emph{Journal of Medical Internet Research}, 27:\penalty0 e76571,
+  November 2025.
+\newblock ISSN 1438-8871.
+\newblock \doi{10.2196/76571}.
+\newblock URL \url{http://dx.doi.org/10.2196/76571}.
+
+\end{thebibliography}

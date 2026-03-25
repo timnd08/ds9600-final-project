@@ -1,6 +1,6 @@
 \documentclass[12pt]{article}
 \usepackage{graphicx} % Required for inserting images
-\usepackage{gensymb}
+%\usepackage{gensymb}
 \usepackage[round, authoryear]{natbib} 
 \usepackage[a4paper, margin=2cm]{geometry}
 \usepackage{setspace}
@@ -104,9 +104,9 @@ The proposed framework introduces a novel method for the automated detection and
 \section{Appendix}
 \subsection{Appendix 1: Prompt Template Design}
 \paragraph{Layer 1: System instruction}
-\textit{You are an AI assistant generating clinical explanations for lumbar spinal stenosis (LSS).Please use only the provided structured inputs and Ensure all statements are supported by quantitative evidence. Do not infer or assume information not explicitly given and do not provide diagnosis beyond the predicted class.}
+You are an AI assistant generating clinical explanations for lumbar spinal stenosis (LSS).Please use only the provided structured inputs and Ensure all statements are supported by quantitative evidence. Do not infer or assume information not explicitly given and do not provide diagnosis beyond the predicted class.
 \paragraph{Layer 2: Structured data input}
-\textit{Here is the structured inputs:
+Here is the structured inputs:
 Predicted severity: Moderate
 Confidence: 0.87
 Anatomical measurements:
@@ -115,11 +115,11 @@ Attention overlap (Dice):
 - Thecal sac: 0.71
 - Intervertebral disc: 0.32
 - Posterior elements: 0.28
-ROI activation: 89\%}
+ROI activation: 89\%
 \paragraph{Layer 3: Reasoning instructions}
-\textit{Please provide severity explanation by prioritizing thecal sac measurements, using attention overlap to support whether the model focused on relevant anatomy. If ROI activation < 50\%, mention potential attention dispersion. If confidence < 0.6, include uncertainty language.}
+Please provide severity explanation by prioritizing thecal sac measurements, using attention overlap to support whether the model focused on relevant anatomy. If ROI activation < 50\%, mention potential attention dispersion. If confidence < 0.6, include uncertainty language.
 \paragraph{Layer 4: Output format}
-\textit{Please generate the output by including predicted severity and confidence as severity assessment, key measurements and their implication as anatomical evidence, alignment between attention and anatomy as model attention, summary, and AI-generated disclaimer.}
+Please generate the output by including predicted severity and confidence as severity assessment, key measurements and their implication as anatomical evidence, alignment between attention and anatomy as model attention, summary, and AI-generated disclaimer.
 
 \clearpage
 
